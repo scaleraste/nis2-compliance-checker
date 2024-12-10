@@ -14,7 +14,7 @@ NIS 2 Compliance Checker è un'applicazione web in grado di valutare la conformi
 
 - Scaricare il codice sorgente e copiare la cartella "nis2-compliance-checker-main" in: Ubuntu\home\nome_utente\
 
-- Aprire il terminale della macchina virtuale e digitare "cd nis2-compliance-checker-main " per posizionarsi all’interno della cartella
+- Aprire il terminale della macchina virtuale e digitare ```cd nis2-compliance-checker-main``` per posizionarsi all’interno della cartella ed eseguire i seguenti script:
 
 
 ## Installare le dipendenze:
