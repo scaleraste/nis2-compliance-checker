@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.big-tile-button {
+    display: block;
+    background-color: #000000;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 3rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease-in-out;
+    background-image: linear-gradient(#6366f1, #8587e5);
+}
+
+.big-tile-button:hover {
+    background-color: #6366f1;
+    background-image: linear-gradient(#8587e5, #8587e5);
+    transition: background-image 0.3s ease-in-out;
+
+}
+
+.tile-button-blue {
+    display: block;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
+    border:1px solid #cbd8f3;
+    cursor: pointer;
+}
+
+.tile-button-blue:hover {
+    background-color: #f3f7ff;
+}
+
+.tile-button-blue.selected {
+    background-color: lightgreen;
+}
+.tile-button-blue.selected:hover {
+    background-color: #abffab;
+}
+
+.tile-button {
+    display: block;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
+    border:1px solid #d5d6ff;
+    cursor: pointer;
+}
+
+.tile-button:hover {
+    background-color: #f3f3ff;
+}
+
+.tile-button.selected {
+    background-color: lightgreen;
+}
+.tile-button.selected:hover {
+    background-color: #abffab;
+}
+
+.white-button {
+    background-color: slategrey;
+    transition: background-color 0.3s ease-in-out, border-color 0.3s ease-in-out;
+
+}
+
+.inline-block-child {
+    display: inline-block;
+}
+
+#selected-points {
+    font-size: medium;
+    text-transform: uppercase;
+    padding: 10px;
+    margin-right: 40px;
+}
+
+html {
+    overflow-y: scroll;
+}
+
+#controlsContainer {
+    max-height: 500px;
+    overflow-y: auto;
+}
+
+#info-banner {
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}

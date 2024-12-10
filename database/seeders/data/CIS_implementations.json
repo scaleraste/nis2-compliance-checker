@@ -1,0 +1,237 @@
+[
+ {
+   "code_ref": 1.1,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilire e mantenere un inventario accurato, dettagliato e aggiornato di tutte le risorse aziendali con il potenziale di archiviare o elaborare dati, tra cui: dispositivi dell'utente finale (inclusi dispositivi portatili e mobili), dispositivi di rete, dispositivi non informatici/IoT e server. Assicurarsi che l'inventario registri l'indirizzo di rete (se statico), l'indirizzo dell'hardware, il nome del computer, il proprietario dell'asset aziendale, il reparto per ogni asset e se l'asset è stato approvato per la connessione alla rete. Per i dispositivi mobili degli utenti finali, gli strumenti di tipo MDM possono supportare questo processo, se appropriato. Questo inventario include gli asset connessi all'infrastruttura fisicamente, virtualmente, in remoto e quelli all'interno di ambienti cloud. Inoltre, include le risorse che sono regolarmente connesse all'infrastruttura di rete dell'azienda, anche se non sono sotto il controllo dell'azienda. Rivedere e aggiornare l'inventario di tutti i cespiti aziendali due volte all'anno o più frequentemente."
+ },
+ {
+   "code_ref": 1.2,
+   "framework_ref": "CIS",
+   "implementation_text": "Assicurarsi che esista un processo per gestire le risorse non autorizzate su base settimanale. L'azienda può scegliere di rimuovere l'asset dalla rete, negare all'asset di connettersi in remoto alla rete o mettere in quarantena l'asset."
+ },
+ {
+   "code_ref": 2.1,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilire e mantenere un inventario dettagliato di tutto il software concesso in licenza installato sulle risorse aziendali. L'inventario software deve documentare il titolo, l'editore, la data di installazione/utilizzo iniziale e lo scopo aziendale di ogni voce; se del caso, includere l'URL (Uniform Resource Locator), gli app store, le versioni, il meccanismo di distribuzione e la data di dismissione. Rivedere e aggiornare l'inventario software due volte all'anno o più frequentemente."
+ },
+ {
+   "code_ref": 2.2,
+   "framework_ref": "CIS",
+   "implementation_text": "Assicurarsi che solo il software attualmente supportato sia designato come autorizzato nell'inventario software per le risorse aziendali. Se il software non è supportato, ma è necessario per l'adempimento della missione dell'azienda, documentare un'eccezione che descriva in dettaglio i controlli di mitigazione e l'accettazione del rischio residuo. Per qualsiasi software non supportato senza una documentazione con eccezioni, designare come non autorizzato. Esaminare l'elenco dei software per verificare il supporto software almeno una volta al mese o più frequentemente."
+ },
+ {
+   "code_ref": 2.3,
+   "framework_ref": "CIS",
+   "implementation_text": "Assicurarsi che il software non autorizzato venga rimosso dall'uso nelle risorse aziendali o riceva un'eccezione documentata. Rivedi mensilmente o più frequentemente."
+ },
+ {
+   "code_ref": 2.5,
+   "framework_ref": "CIS",
+   "implementation_text": "Utilizzare controlli tecnici, come l'inserimento nell'elenco Consentiti delle applicazioni, per assicurarti che solo il software autorizzato possa essere eseguito o accessibile. Rivalutare due volte all'anno o più frequentemente."
+ },
+ {
+   "code_ref": 3.2,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilire e mantenere un inventario dei dati basato sul processo di gestione dei dati dell'azienda. Inventario dei dati sensibili, come minimo. Rivedere e aggiornare l'inventario almeno una volta all'anno, con priorità ai dati sensibili."
+ },
+ {
+   "code_ref": 3.5,
+   "framework_ref": "CIS",
+   "implementation_text": "Smaltire in modo sicuro i dati come descritto nel processo di gestione dei dati documentato dell'azienda. Assicurarsi che il processo e il metodo di eliminazione siano commisurati alla riservatezza dei dati."
+ },
+ {
+   "code_ref": 3.7,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilire e mantenere uno schema generale di classificazione dei dati per l'impresa. Le aziende possono utilizzare etichette come \"Sensibile\", \"Confidenziale\" e \"Pubblico\" e classificare i propri dati in base a tali etichette. Rivedere e aggiornare lo schema di classificazione annualmente o quando si verificano cambiamenti aziendali significativi che potrebbero influire su questa Salvaguardia."
+ },
+ {
+   "code_ref": 3.8,
+   "framework_ref": "CIS",
+   "implementation_text": "Documentare i flussi di dati. La documentazione relativa al flusso di dati include i flussi di dati del provider di servizi e deve essere basata sul processo di gestione dei dati dell'azienda. Rivedere e aggiornare la documentazione ogni anno o quando si verificano modifiche aziendali significative che potrebbero influire su questa Protezione."
+ },
+ {
+   "code_ref": 3.1,
+   "framework_ref": "CIS",
+   "implementation_text": "Crittografare i dati sensibili in transito. Le implementazioni di esempio possono includere: Transport Layer Security (TLS) e Open Secure Shell (OpenSSH)."
+ },
+ {
+   "code_ref": 3.11,
+   "framework_ref": "CIS",
+   "implementation_text": "Crittografare i dati sensibili inattivi su server, applicazioni e database. La crittografia a livello di archiviazione, nota anche come crittografia lato server, soddisfa i requisiti minimi di questa Salvaguardia. Ulteriori metodi di crittografia possono includere la crittografia a livello di applicazione, nota anche come crittografia lato client, in cui l'accesso ai dispositivi di archiviazione dei dati non consente l'accesso ai dati in chiaro. "
+ },
+ {
+   "code_ref": 3.12,
+   "framework_ref": "CIS",
+   "implementation_text": "Segmentare l'elaborazione e l'archiviazione dei dati in base alla sensibilità dei dati. Non elaborare dati sensibili su asset aziendali destinati a dati con sensibilità inferiore."
+ },
+ {
+   "code_ref": 4.1,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilire e mantenere un processo di configurazione sicuro documentato per le risorse aziendali (dispositivi degli utenti finali, inclusi dispositivi portatili e mobili, dispositivi non informatici/IoT e server) e il software (sistemi operativi e applicazioni). Rivedere e aggiornare la documentazione ogni anno o quando si verificano modifiche aziendali significative che potrebbero influire su questa Protezione."
+ },
+ {
+   "code_ref": 4.2,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilire e mantenere un processo di configurazione sicuro documentato per i dispositivi di rete. Rivedere e aggiornare la documentazione ogni anno o quando si verificano modifiche aziendali significative che potrebbero influire su questa Protezione."
+ },
+ {
+   "code_ref": 5.1,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilire e gestire un inventario di tutti gli account gestiti nell'azienda. L'inventario deve includere almeno gli account utente, amministratore e account di servizio. L'inventario, come minimo, dovrebbe contenere il nome, il nome utente, le date di inizio/fine e il reparto della persona. Verifica che tutti gli account attivi siano autorizzati, in base a una pianificazione ricorrente almeno trimestrale o più frequentemente."
+ },
+ {
+   "code_ref": 5.6,
+   "framework_ref": "CIS",
+   "implementation_text": "Centralizza la gestione degli account tramite una directory o un servizio di identità."
+ },
+ {
+   "code_ref": 6.1,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilire e seguire un processo documentato, preferibilmente automatizzato, per concedere l'accesso alle risorse aziendali in caso di nuova assunzione o cambio di ruolo di un utente."
+ },
+ {
+   "code_ref": 6.2,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilire e seguire un processo, preferibilmente automatizzato, per la revoca dell'accesso alle risorse aziendali, attraverso la disabilitazione degli account immediatamente dopo la chiusura, la revoca dei diritti o il cambio di ruolo di un utente. La disabilitazione degli account, anziché l'eliminazione degli account, potrebbe essere necessaria per mantenere gli audit trail."
+ },
+ {
+   "code_ref": 6.8,
+   "framework_ref": "CIS",
+   "implementation_text": "Definire e mantenere il controllo degli accessi basato sui ruoli, attraverso la determinazione e la documentazione dei diritti di accesso necessari per ciascun ruolo all'interno dell'azienda per svolgere con successo i compiti assegnati. Esegui revisioni del controllo di accesso delle risorse aziendali per verificare che tutti i privilegi siano autorizzati, in base a una pianificazione ricorrente almeno una volta all'anno o più frequentemente."
+ },
+ {
+   "code_ref": 7.1,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilire e mantenere un processo documentato di gestione delle vulnerabilità per gli asset aziendali. Rivedere e aggiornare la documentazione ogni anno o quando si verificano modifiche aziendali significative che potrebbero influire su questa Protezione."
+ },
+ {
+   "code_ref": 7.2,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilire e mantenere una strategia di correzione basata sul rischio documentata in un processo di correzione, con revisioni mensili o più frequenti."
+ },
+ {
+   "code_ref": 8.2,
+   "framework_ref": "CIS",
+   "implementation_text": "Raccogliere i log di controllo. Assicurarsi che la registrazione, in base al processo di gestione dei log di controllo dell'azienda, sia stata abilitata in tutte le risorse aziendali."
+ },
+ {
+   "code_ref": 8.11,
+   "framework_ref": "CIS",
+   "implementation_text": "Condurre revisioni dei registri di controllo per rilevare anomalie o eventi anomali che potrebbero indicare una potenziale minaccia. Condurre revisioni su base settimanale o più frequente."
+ },
+ {
+   "code_ref": 10.1,
+   "framework_ref": "CIS",
+   "implementation_text": "Distribuire e gestire il software anti-malware su tutte le risorse aziendali."
+ },
+ {
+   "code_ref": 10.7,
+   "framework_ref": "CIS",
+   "implementation_text": "Utilizzare un software antimalware basato sul comportamento."
+ },
+ {
+   "code_ref": 11.2,
+   "framework_ref": "CIS",
+   "implementation_text": "Eseguire backup automatizzati delle risorse aziendali nell'ambito. Eseguire backup settimanalmente o più frequentemente in base alla sensibilità dei dati."
+ },
+ {
+   "code_ref": 11.3,
+   "framework_ref": "CIS",
+   "implementation_text": "Proteggere i dati di ripristino con controlli equivalenti ai dati originali. Crittografia di riferimento o separazione dei dati, in base ai requisiti."
+ },
+ {
+   "code_ref": 11.5,
+   "framework_ref": "CIS",
+   "implementation_text": "Testare il ripristino del backup trimestralmente o più frequentemente per un campionamento di asset aziendali nell'ambito."
+ },
+ {
+   "code_ref": 12.2,
+   "framework_ref": "CIS",
+   "implementation_text": "Progettare e mantenere un'architettura di rete sicura. Un'architettura di rete sicura deve affrontare almeno la segmentazione, i privilegi minimi e la disponibilità. Le implementazioni di esempio non includeranno solo la documentazione, ma anche i componenti di policy e progettazione."
+ },
+ {
+   "code_ref": 13.1,
+   "framework_ref": "CIS",
+   "implementation_text": "Centralizzare gli avvisi sugli eventi di sicurezza tra le risorse aziendali per la correlazione e l'analisi dei registri. L'implementazione delle procedure consigliate richiede l'uso di un SIEM, che include avvisi di correlazione degli eventi definiti dal fornitore. Anche una piattaforma di analisi dei log configurata con avvisi di correlazione rilevanti per la sicurezza soddisfa questa protezione."
+ },
+ {
+   "code_ref": 14.1,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilire e mantenere un programma di sensibilizzazione alla sicurezza. Lo scopo di un programma di sensibilizzazione alla sicurezza è quello di educare la forza lavoro dell'azienda su come interagire con le risorse e i dati aziendali in modo sicuro. Condurre corsi di formazione al momento dell'assunzione e, come minimo, annualmente. Rivedere e aggiornare i contenuti annualmente o quando si verificano modifiche aziendali significative che potrebbero influire su questa Salvaguardia."
+ },
+ {
+   "code_ref": 14.9,
+   "framework_ref": "CIS",
+   "implementation_text": "Condurre corsi di sensibilizzazione e competenze in materia di sicurezza specifici per ruolo. Le implementazioni di esempio includono corsi di amministrazione sicura dei sistemi per professionisti IT, la formazione OWASP® Top 10 sulla consapevolezza e la prevenzione delle vulnerabilità per gli sviluppatori di applicazioni Web e la formazione avanzata sulla consapevolezza dell'ingegneria sociale per ruoli di alto profilo."
+ },
+ {
+   "code_ref": 14.9,
+   "framework_ref": "CIS",
+   "implementation_text": "Condurre corsi di sensibilizzazione e competenze in materia di sicurezza specifici per ruolo. Esempi di implementazioni includono corsi di amministrazione sicura dei sistemi per professionisti IT (OWASP® Top 10 formazione sulla consapevolezza e la prevenzione delle vulnerabilità per sviluppatori di applicazioni Web e formazione avanzata sulla consapevolezza dell'ingegneria sociale per ruoli di alto profilo."
+ },
+ {
+   "code_ref": 15.1,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilire e mantenere un inventario dei fornitori di servizi. L'inventario consiste nell'elencare tutti i fornitori di servizi noti, includere le classificazioni e designare un contatto aziendale per ogni fornitore di servizi. Rivedere e aggiornare l'inventario annualmente o quando si verificano modifiche aziendali significative che potrebbero influire su questa Salvaguardia. "
+ },
+ {
+   "code_ref": 15.2,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilire e mantenere una politica di gestione dei fornitori di servizi. Assicurarsi che la policy riguardi la classificazione, l'inventario, la valutazione, il monitoraggio e la disattivazione dei fornitori di servizi. Rivedere e aggiornare la policy annualmente o quando si verificano modifiche aziendali significative che potrebbero influire su questa Salvaguardia."
+ },
+ {
+   "code_ref": 15.3,
+   "framework_ref": "CIS",
+   "implementation_text": "Classificare i fornitori di servizi. La considerazione della classificazione può includere una o più caratteristiche, come la riservatezza dei dati, il volume dei dati, i requisiti di disponibilità, le normative applicabili, il rischio intrinseco e il rischio attenuato. Aggiornare e rivedere le classificazioni annualmente o quando si verificano modifiche aziendali significative che potrebbero influire su questa Salvaguardia."
+ },
+ {
+   "code_ref": 15.4,
+   "framework_ref": "CIS",
+   "implementation_text": "Assicurarsi che i contratti con i fornitori di servizi includano i requisiti di sicurezza. I requisiti di esempio possono includere i requisiti minimi del programma di sicurezza, la notifica e la risposta agli incidenti di sicurezza e/o alle violazioni dei dati, i requisiti di crittografia dei dati e gli impegni di eliminazione dei dati. Questi requisiti di sicurezza devono essere coerenti con i criteri di gestione del provider di servizi dell'azienda. Esamina annualmente i contratti dei fornitori di servizi per assicurarti che i contratti non manchino ai requisiti di sicurezza."
+ },
+ {
+   "code_ref": 15.5,
+   "framework_ref": "CIS",
+   "implementation_text": "Valutare i fornitori di servizi in modo coerente con i criteri di gestione dei fornitori di servizi dell'azienda. L'ambito della valutazione può variare in base alle classificazioni e può includere la revisione di report di valutazione standardizzati, come il Service Organization Control 2 (SOC 2) e l'Attestato di conformità (AoC) del settore delle carte di pagamento (PCI), questionari personalizzati o altri processi adeguatamente rigorosi. Rivalutare i fornitori di servizi una volta all'anno, come minimo, o con contratti nuovi e rinnovati."
+ },
+ {
+   "code_ref": 15.6,
+   "framework_ref": "CIS",
+   "implementation_text": "Monitorare i provider di servizi in modo coerente con i criteri di gestione dei provider di servizi dell'azienda. Il monitoraggio può includere una rivalutazione periodica della conformità del fornitore di servizi, il monitoraggio delle note di rilascio del fornitore di servizi e il monitoraggio del dark web."
+ },
+ {
+   "code_ref": 15.7,
+   "framework_ref": "CIS",
+   "implementation_text": "Disattivare in modo sicuro i fornitori di servizi. Esempi di considerazioni includono la disattivazione degli account utente e del servizio, la terminazione dei flussi di dati e l'eliminazione sicura dei dati aziendali all'interno dei sistemi del provider di servizi. "
+ },
+ {
+   "code_ref": 16.1,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilire e mantenere un processo di sviluppo delle applicazioni sicuro. Nel processo, affrontare elementi quali: standard di progettazione delle applicazioni sicure, pratiche di codifica sicure, formazione degli sviluppatori, gestione delle vulnerabilità, sicurezza del codice di terze parti e procedure di test della sicurezza delle applicazioni. Rivedere e aggiornare la documentazione ogni anno o quando si verificano modifiche aziendali significative che potrebbero influire su questa Protezione."
+ },
+ {
+   "code_ref": 17.2,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilire e mantenere le informazioni di contatto per le parti che devono essere informate degli incidenti di sicurezza. I contatti possono includere personale interno, fornitori di servizi, forze dell'ordine, fornitori di assicurazioni informatiche, agenzie governative competenti, partner del Centro di condivisione e analisi delle informazioni (ISAC) o altre parti interessate. Verificare i contatti ogni anno per assicurarsi che le informazioni siano aggiornate."
+ },
+ {
+   "code_ref": 17.4,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilisci e mantieni un processo documentato di risposta agli incidenti che affronti ruoli e responsabilità, requisiti di conformità e un piano di comunicazione. Effettuare una revisione annuale o quando si verificano modifiche aziendali significative che potrebbero influire su questa Salvaguardia."
+ },
+ {
+   "code_ref": 17.6,
+   "framework_ref": "CIS",
+   "implementation_text": "Determinare quali meccanismi primari e secondari verranno utilizzati per comunicare e segnalare durante un incidente di sicurezza. I meccanismi possono includere telefonate, e-mail, chat sicure o lettere di notifica. Tieni presente che alcuni meccanismi, come le e-mail, possono essere influenzati durante un incidente di sicurezza. Effettuare una revisione annuale o quando si verificano modifiche aziendali significative che potrebbero influire su questa Salvaguardia."
+ },
+ {
+   "code_ref": 17.8,
+   "framework_ref": "CIS",
+   "implementation_text": "Condurre revisioni post-incidente. Le revisioni post-incidente aiutano a prevenire il ripetersi degli incidenti attraverso l'identificazione delle lezioni apprese e le azioni di follow-up."
+ },
+ {
+   "code_ref": 17.9,
+   "framework_ref": "CIS",
+   "implementation_text": "Stabilire e gestire le soglie degli incidenti di sicurezza, tra cui, come minimo, la distinzione tra un incidente e un evento. Gli esempi possono includere: attività anomale, vulnerabilità della sicurezza, debolezza della sicurezza, violazione dei dati, incidente di privacy, ecc. Effettuare una revisione annuale o quando si verificano modifiche aziendali significative che potrebbero influire su questa Salvaguardia."
+ }
+]

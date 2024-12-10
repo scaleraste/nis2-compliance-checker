@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Governance",
+        "description": "Gli Stati membri provvedono affinché gli organi di gestione dei soggetti essenziali e importanti approvino le misure di gestione dei rischi di cibersicurezza adottate da tali soggetti per conformarsi all’articolo 21, sovraintendano alla sua attuazione e possano essere ritenuti responsabili di violazione da parte dei soggetti di tale articolo",
+        "article": 20,
+        "paragraph": 1,
+        "letter": null,
+        "topic": "Responsabilità degli organi di gestione"
+    },
+    {
+        "name": "Governance",
+        "description": "Gli Stati membri provvedono affinché i membri dell’organo di gestione dei soggetti essenziali e importanti siano tenuti a seguire una formazione e incoraggiano i soggetti essenziali e importanti a offrire periodicamente una formazione analoga ai loro dipendenti, per far sì che questi acquisiscano conoscenze e competenze sufficienti al fine di individuare i rischi e valutare le pratiche di gestione dei rischi di cibersicurezza e il loro impatto sui servizi offerti dal soggetto",
+        "article": 20,
+        "paragraph": 2,
+        "letter": null,
+        "topic": "Formazione sulla gestione dei rischi di cibersicurezza per organi di gestione e dipendenti"
+    },
+    {
+        "name": "Misure di gestione dei rischi di cibersicurezza",
+        "description": "Gli Stati membri provvedono affinché i soggetti essenziali e importanti adottino misure tecniche, operative e organizzative adeguate e proporzionate per gestire i rischi posti alla sicurezza dei sistemi informatici e di rete che tali soggetti utilizzano nelle loro attività o nella fornitura dei loro servizi, nonché per prevenire o ridurre al minimo l’impatto degli incidenti per i destinatari dei loro servizi e per altri servizi. Tenuto conto delle conoscenze più aggiornate in materia e, se del caso, delle pertinenti norme europee e internazionali, nonché dei costi di attuazione, le misure di cui al primo comma assicurano un livello di sicurezza dei sistemi informatici e di rete adeguato ai rischi esistenti. Nel valutare la proporzionalità di tali misure, si tiene debitamente conto del grado di esposizione del soggetto a rischi, delle dimensioni del soggetto e della probabilità che si verifichino incidenti, nonché della loro gravità, compreso il loro impatto sociale ed economico",
+        "article": 21,
+        "paragraph": 1,
+        "letter": null,
+        "topic": "Gestione proporzionata dei rischi di sicurezza informatica per sistemi e reti"
+    },
+    {
+        "name": "Misure di gestione dei rischi di cibersicurezza",
+        "description": "Politiche di analisi dei rischi e di sicurezza dei sistemi informativi",
+        "article": 21,
+        "paragraph": 2,
+        "letter": "a",
+        "topic": "Politiche di analisi dei rischi e di sicurezza dei sistemi informativi"
+    },
+    {
+        "name": "Misure di gestione dei rischi di cibersicurezza",
+        "description": "Gestione degli incidenti",
+        "article": 21,
+        "paragraph": 2,
+        "letter": "b",
+        "topic": "Gestione degli incidenti"
+    },
+    {
+        "name": "Misure di gestione dei rischi di cibersicurezza",
+        "description": "Continuità operativa, come la gestione del backup e il ripristino in caso di disastro, e gestione delle crisi",
+        "article": 21,
+        "paragraph": 2,
+        "letter": "c",
+        "topic": "Continuità operativa, come la gestione del backup e il ripristino in caso di disastro, e gestione delle crisi"
+    },
+    {
+        "name": "Misure di gestione dei rischi di cibersicurezza",
+        "description": "Sicurezza della catena di approvvigionamento, compresi aspetti relativi alla sicurezza riguardanti i rapporti tra ciascun soggetto e i suoi diretti fornitori o fornitori di servizi",
+        "article": 21,
+        "paragraph": 2,
+        "letter": "d",
+        "topic": "Sicurezza della catena di approvvigionamento, compresi aspetti relativi alla sicurezza riguardanti i rapporti tra ciascun soggetto e i suoi diretti fornitori o fornitori di servizi"
+    },
+    {
+        "name": "Misure di gestione dei rischi di cibersicurezza",
+        "description": "Sicurezza dell'acquisizione, dello sviluppo e della manutenzione dei sistemi informativi e di rete, compresa la gestione e la divulgazione delle vulnerabilità",
+        "article": 21,
+        "paragraph": 2,
+        "letter": "e",
+        "topic": "Sicurezza dell'acquisizione, dello sviluppo e della manutenzione dei sistemi informativi e di rete, compresa la gestione e la divulgazione delle vulnerabilità"
+    },
+    {
+        "name": "Misure di gestione dei rischi di cibersicurezza",
+        "description": "Strategie e procedure per valutare l'efficacia delle misure di gestione dei rischi di cibersicurezza",
+        "article": 21,
+        "paragraph": 2,
+        "letter": "f",
+        "topic": "Strategie e procedure per valutare l'efficacia delle misure di gestione dei rischi di cibersicurezza"
+    },
+    {
+        "name": "Misure di gestione dei rischi di cibersicurezza",
+        "description": "Pratiche di igiene informatica di base e formazione in materia di cibersicurezza",
+        "article": 21,
+        "paragraph": 2,
+        "letter": "g",
+        "topic": "Pratiche di igiene informatica di base e formazione in materia di cibersicurezza"
+    },
+    {
+        "name": "Misure di gestione dei rischi di cibersicurezza",
+        "description": "Politiche e procedure relative all'uso della crittografia e, se del caso, della cifratura",
+        "article": 21,
+        "paragraph": 2,
+        "letter": "h",
+        "topic": "Politiche e procedure relative all'uso della crittografia e, se del caso, della cifratura"
+    },
+    {
+        "name": "Misure di gestione dei rischi di cibersicurezza",
+        "description": "Sicurezza delle risorse umane, strategie di controllo dell'accesso e gestione degli attivi",
+        "article": 21,
+        "paragraph": 2,
+        "letter": "i",
+        "topic": "Sicurezza delle risorse umane, strategie di controllo dell'accesso e gestione degli attivi"
+    },
+    {
+        "name": "Misure di gestione dei rischi di cibersicurezza",
+        "description": "Uso di soluzioni di autenticazione a più fattori o di autenticazione continua, di comunicazioni vocali, video e testuali protette e di sistemi di comunicazione di emergenza protetti da parte del soggetto al proprio interno, se del caso",
+        "article": 21,
+        "paragraph": 2,
+        "letter": "j",
+        "topic": "Uso di soluzioni di autenticazione a più fattori o di autenticazione continua, di comunicazioni vocali, video e testuali protette e di sistemi di comunicazione di emergenza protetti da parte del soggetto al proprio interno, se del caso"
+    },
+    {
+        "name": "Misure di gestione dei rischi di cibersicurezza",
+        "description": "Gli Stati membri provvedono affinché, nel valutare quali misure di cui al paragrafo 2, lettera d), del presente articolo, siano adeguate, i soggetti tengano conto delle vulnerabilità specifiche per ogni diretto fornitore e fornitore di servizi e della qualità complessiva dei prodotti e delle pratiche di cibersicurezza dei propri fornitori e fornitori di servizi, comprese le loro procedure di sviluppo sicuro. Gli Stati membri provvedono inoltre affinché, nel valutare quali misure di cui al paragrafo 2, lettera d), siano adeguate, i soggetti siano tenuti a tenere conto dei risultati delle valutazioni coordinate dei rischi per la sicurezza delle catene di approvvigionamento critiche effettuate a norma dell’articolo 22, paragrafo 1",
+        "article": 21,
+        "paragraph": 3,
+        "letter": null,
+        "topic": "Misure di sicurezza per la gestione delle vulnerabilità nella catena di fornitura"
+    },
+    {
+        "name": "Misure di gestione dei rischi di cibersicurezza",
+        "description": "Gli Stati membri provvedono affinché, qualora un soggetto constati di non essere conforme alle misure di cui al paragrafo 2, esso adotti, senza indebito ritardo, tutte le misure correttive necessarie, appropriate e proporzionate",
+        "article": 21,
+        "paragraph": 4,
+        "letter": null,
+        "topic": "Obbligo di adottare tempestivamente misure correttive in caso di non conformità alle misure di sicurezza"
+    },
+    {
+        "name": "Obblighi di segnalazione",
+        "description": "Ciascuno Stato membro provvede affinché i soggetti essenziali e importanti notifichino senza indebito ritardo al proprio CSIRT o, se opportuno, alla propria autorità competente, conformemente al paragrafo 4, eventuali incidenti che hanno un impatto significativo sulla fornitura dei loro servizi quali indicati al paragrafo 3 (incidente significativo). Se opportuno, i soggetti interessati notificano senza indebito ritardo ai destinatari dei loro servizi gli incidenti significativi che possono ripercuotersi negativamente sulla fornitura di tali servizi. Ciascuno Stato membro provvede affinché tali soggetti comunichino, tra l’altro, qualunque informazione che consenta al CSIRT o, se opportuno, all’autorità competente di determinare l’eventuale impatto transfrontaliero dell’incidente. La sola notifica non espone il soggetto che la effettua a una maggiore responsabilità",
+        "article": 23,
+        "paragraph": null,
+        "letter": null,
+        "topic": "Obblighi di segnalazione"
+    },
+    {
+        "name": "Uso dei sistemi europei di certificazione della cibersicurezza",
+        "description": "Al fine di dimostrare il rispetto di determinate prescrizioni di cui all’articolo 21, gli Stati membri possono imporre ai soggetti essenziali e importanti di utilizzare determinati prodotti TIC, servizi TIC e processi TIC, sviluppati dal soggetto essenziale o importante o acquistati da terze parti, che siano certificati nell’ambito dei sistemi europei di certificazione della cibersicurezza adottati a norma dell’articolo 49 del regolamento (UE) 2019/881. Inoltre, gli Stati membri incoraggiano i soggetti essenziali e importanti a utilizzare servizi fiduciari qualificati",
+        "article": 24,
+        "paragraph": null,
+        "letter": null,
+        "topic": "Uso dei sistemi europei di certificazione della cibersicurezza"
+    }
+]

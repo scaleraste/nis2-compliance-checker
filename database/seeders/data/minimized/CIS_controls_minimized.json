@@ -1,0 +1,35 @@
+[
+ {
+   "nis2_ref": 1,
+   "framework": "CIS",
+   "code": 14.1,
+   "priority": null,
+   "category": "Formazione sulla consapevolezza e sulle competenze della sicurezza ",
+   "sub_category": "IG1",
+   "description": "Viene stabilito e mantenuto un programma di sensibilizzazione sulla sicurezza.",
+   "function": "Govern",
+   "asset_type": "Documentation"
+ },
+ {
+   "nis2_ref": 1,
+   "framework": "CIS",
+   "code": 14.9,
+   "priority": null,
+   "category": "Formazione sulla consapevolezza e sulle competenze della sicurezza ",
+   "sub_category": "IG2",
+   "description": "Viene condotta una formazione specifica per ruolo sulla consapevolezza della sicurezza e sulle competenze.",
+   "function": "Protect",
+   "asset_type": null
+ },
+ {
+   "nis2_ref": 16,
+   "framework": "CIS",
+   "code": 14.4,
+   "priority": null,
+   "category": "Formazione sulla consapevolezza e sulle competenze della sicurezza ",
+   "sub_category": "IG2",
+   "description": "Vengono formati i dipendenti per identificare, archiviare, trasferire e archiviare i dati sensibili, inclusa la gestione corretta di schermi e scrivanie.",
+   "function": "Protect",
+   "asset_type": "Users"
+ }
+]

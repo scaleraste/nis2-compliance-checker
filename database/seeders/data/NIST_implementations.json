@@ -1,0 +1,1817 @@
+[
+ {
+   "code_ref": "GV.OC-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Condividere la missione dell'organizzazione (ad esempio, attraverso dichiarazioni di visione e missione, strategie di marketing e di servizio) per fornire una base per identificare i rischi che potrebbero ostacolare tale missione"
+ },
+ {
+   "code_ref": "GV.OC-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Identificare gli stakeholder interni rilevanti e le loro aspettative relative alla sicurezza informatica (ad esempio, aspettative di prestazioni e rischio di funzionari, direttori e consulenti; aspettative culturali dei dipendenti)"
+ },
+ {
+   "code_ref": "GV.OC-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Identificare gli stakeholder esterni rilevanti e le loro aspettative relative alla sicurezza informatica (ad esempio, aspettative sulla privacy dei clienti, aspettative commerciali sulle partnership, aspettative di conformità delle autorità di regolamentazione, aspettative etiche della società)"
+ },
+ {
+   "code_ref": "GV.OC-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Determinare un processo per tracciare e gestire i requisiti legali e normativi in materia di protezione delle informazioni degli individui (ad esempio, Health Insurance Portability and Accountability Act, California Consumer Privacy Act, Regolamento generale sulla protezione dei dati) "
+ },
+ {
+   "code_ref": "GV.OC-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Determinare un processo per tracciare e gestire i requisiti contrattuali per la gestione della sicurezza informatica delle informazioni su fornitori, clienti e partner"
+ },
+ {
+   "code_ref": "GV.OC-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Allineare la strategia di sicurezza informatica dell'organizzazione con i requisiti legali, normativi e contrattuali"
+ },
+ {
+   "code_ref": "GV.OC-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Stabilire criteri per determinare la criticità delle capacità e dei servizi dal punto di vista degli stakeholder interni ed esterni"
+ },
+ {
+   "code_ref": "GV.OC-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Determinare (ad esempio, da un'analisi dell'impatto aziendale) le risorse e le operazioni aziendali che sono vitali per raggiungere gli obiettivi della missione e l'impatto potenziale di una perdita (o perdita parziale) di tali operazioni "
+ },
+ {
+   "code_ref": "GV.OC-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Stabilire e comunicare obiettivi di resilienza (ad esempio, obiettivi relativi ai tempi di ripristino) per la fornitura di capacità e servizi critici in vari stati operativi (ad esempio, sotto attacco, durante il ripristino, il normale funzionamento)"
+ },
+ {
+   "code_ref": "GV.OC-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Creare un inventario delle dipendenze dell'organizzazione dalle risorse esterne (ad esempio, strutture, provider di hosting basati su cloud) e delle loro relazioni con le risorse organizzative e le funzioni aziendali"
+ },
+ {
+   "code_ref": "GV.OC-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Identificare e documentare le dipendenze esterne che rappresentano potenziali punti di errore per le capacità e i servizi critici dell'organizzazione e condividere tali informazioni con il personale appropriato"
+ },
+ {
+   "code_ref": "GV.RM-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Aggiornamento degli obiettivi di gestione dei rischi di sicurezza informatica a breve e lungo termine nell'ambito della pianificazione strategica annuale e quando si verificano cambiamenti importanti"
+ },
+ {
+   "code_ref": "GV.RM-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Stabilire obiettivi misurabili per la gestione del rischio di sicurezza informatica (ad esempio, gestire la qualità della formazione degli utenti, garantire un'adeguata protezione del rischio per i sistemi di controllo industriale)"
+ },
+ {
+   "code_ref": "GV.RM-01",
+   "framework_ref": "NIST",
+   "implementation_text": "I senior leader concordano sugli obiettivi di sicurezza informatica e li utilizzano per misurare e gestire il rischio e le prestazioni"
+ },
+ {
+   "code_ref": "GV.RM-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Determinare e comunicare dichiarazioni di propensione al rischio che trasmettano aspettative sul livello di rischio appropriato per l'organizzazione"
+ },
+ {
+   "code_ref": "GV.RM-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Tradurre le dichiarazioni di propensione al rischio in dichiarazioni di tolleranza al rischio specifiche, misurabili e ampiamente comprensibili"
+ },
+ {
+   "code_ref": "GV.RM-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Perfezionare periodicamente gli obiettivi organizzativi e la propensione al rischio in base all'esposizione al rischio nota e al rischio residuo"
+ },
+ {
+   "code_ref": "GV.RM-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Aggregare e gestire i rischi di sicurezza informatica insieme ad altri rischi aziendali (ad esempio, conformità, finanziari, operativi, normativi, reputazionali, di sicurezza)"
+ },
+ {
+   "code_ref": "GV.RM-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Includere i responsabili del rischio di sicurezza informatica nella pianificazione della gestione del rischio aziendale"
+ },
+ {
+   "code_ref": "GV.RM-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Stabilire i criteri per l'escalation dei rischi di sicurezza informatica all'interno della gestione dei rischi aziendali "
+ },
+ {
+   "code_ref": "GV.RM-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Specificare i criteri per accettare ed evitare il rischio di sicurezza informatica per varie classificazioni di dati"
+ },
+ {
+   "code_ref": "GV.RM-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Determinare se acquistare un'assicurazione sulla sicurezza informatica "
+ },
+ {
+   "code_ref": "GV.RM-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Documentare le condizioni in base alle quali i modelli di responsabilità condivisa sono accettabili (ad esempio, esternalizzare alcune funzioni di sicurezza informatica, far eseguire transazioni finanziarie a terzi per conto dell'organizzazione, utilizzare servizi basati su cloud pubblico)"
+ },
+ {
+   "code_ref": "GV.RM-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Determinare come aggiornare i dirigenti, i direttori e il management sulla posizione di sicurezza informatica dell'organizzazione a intervalli concordati"
+ },
+ {
+   "code_ref": "GV.RM-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Identificare il modo in cui tutti i reparti dell'organizzazione, come la direzione, le operazioni, i revisori interni, l'ufficio legale, le acquisizioni, la sicurezza fisica e le risorse umane, comunicheranno tra loro sui rischi per la sicurezza informatica "
+ },
+ {
+   "code_ref": "GV.RM-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Stabilire i criteri per l'utilizzo di un approccio quantitativo all'analisi dei rischi di sicurezza informatica e specificare le formule di probabilità ed esposizione"
+ },
+ {
+   "code_ref": "GV.RM-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Creare e utilizzare modelli (ad esempio, un registro dei rischi) per documentare le informazioni sui rischi di sicurezza informatica (ad esempio, descrizione del rischio, esposizione, trattamento e proprietà)"
+ },
+ {
+   "code_ref": "GV.RM-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Stabilire i criteri per la definizione delle priorità dei rischi ai livelli appropriati all'interno dell'azienda"
+ },
+ {
+   "code_ref": "GV.RM-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare un elenco coerente di categorie di rischio per supportare l'integrazione, l'aggregazione e il confronto dei rischi per la sicurezza informatica"
+ },
+ {
+   "code_ref": "GV.RM-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Definire e comunicare linee guida e metodi per identificare le opportunità e includerle nelle discussioni sui rischi (ad esempio, analisi SWOT (punti di forza, debolezze, opportunità e minacce)"
+ },
+ {
+   "code_ref": "GV.RM-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Identificare gli stretch goal e documentarli"
+ },
+ {
+   "code_ref": "GV.RM-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Calcolare, documentare e dare priorità ai rischi positivi accanto ai rischi negativi"
+ },
+ {
+   "code_ref": "GV.RR-01",
+   "framework_ref": "NIST",
+   "implementation_text": "I leader (ad esempio, i direttori) concordano i loro ruoli e responsabilità nello sviluppo, nell'implementazione e nella valutazione della strategia di sicurezza informatica dell'organizzazione"
+ },
+ {
+   "code_ref": "GV.RR-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Condividere le aspettative dei leader riguardo a una cultura sicura ed etica, soprattutto quando gli eventi attuali presentano l'opportunità di evidenziare esempi positivi o negativi di gestione del rischio di sicurezza informatica "
+ },
+ {
+   "code_ref": "GV.RR-01",
+   "framework_ref": "NIST",
+   "implementation_text": "I leader indirizzano il CISO a mantenere una strategia completa per i rischi di sicurezza informatica e a rivederla e aggiornarla almeno una volta all'anno e dopo eventi importanti "
+ },
+ {
+   "code_ref": "GV.RR-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Condurre revisioni per garantire un'adeguata autorità e coordinamento tra i responsabili della gestione del rischio di sicurezza informatica"
+ },
+ {
+   "code_ref": "GV.RR-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Documentare i ruoli e le responsabilità di gestione del rischio nelle policy"
+ },
+ {
+   "code_ref": "GV.RR-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Documentare chi è responsabile delle attività di gestione del rischio di sicurezza informatica e come tali team e individui devono essere consultati e informati"
+ },
+ {
+   "code_ref": "GV.RR-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Includere le responsabilità di sicurezza informatica e i requisiti di prestazione nelle descrizioni del personale"
+ },
+ {
+   "code_ref": "GV.RR-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Documentare gli obiettivi di prestazione per il personale con responsabilità di gestione del rischio di sicurezza informatica e misurare periodicamente le prestazioni per identificare le aree di miglioramento"
+ },
+ {
+   "code_ref": "GV.RR-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Articolare chiaramente le responsabilità di sicurezza informatica all'interno delle operazioni, delle funzioni di rischio e delle funzioni di audit interno"
+ },
+ {
+   "code_ref": "GV.RR-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Condurre revisioni periodiche della gestione della gestione per garantire che coloro a cui sono state affidate responsabilità di gestione del rischio di sicurezza informatica abbiano l'autorità necessaria "
+ },
+ {
+   "code_ref": "GV.RR-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Identificare l'allocazione delle risorse e gli investimenti in linea con la tolleranza al rischio e la risposta "
+ },
+ {
+   "code_ref": "GV.RR-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Fornire persone, processi e risorse tecniche adeguate e sufficienti per supportare la strategia di sicurezza informatica"
+ },
+ {
+   "code_ref": "GV.RR-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Integrare le considerazioni sulla gestione del rischio di sicurezza informatica nei processi delle risorse umane (ad esempio, screening del personale, onboarding, notifica di modifiche, offboarding) "
+ },
+ {
+   "code_ref": "GV.RR-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Considerare la conoscenza della sicurezza informatica come un fattore positivo nelle decisioni di assunzione, formazione e fidelizzazione"
+ },
+ {
+   "code_ref": "GV.RR-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Condurre controlli dei precedenti prima di inserire nuovo personale per ruoli sensibili e ripetere periodicamente i controlli dei precedenti per il personale con tali ruoli"
+ },
+ {
+   "code_ref": "GV.RR-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Definire e far rispettare gli obblighi per il personale di essere consapevole, aderire e sostenere le politiche di sicurezza in relazione ai propri ruoli"
+ },
+ {
+   "code_ref": "GV.PO-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Creare, diffondere e mantenere una politica di gestione del rischio comprensibile e utilizzabile con dichiarazioni di intenti, aspettative e direzione del management"
+ },
+ {
+   "code_ref": "GV.PO-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Rivedere periodicamente le politiche e i processi e le procedure di supporto per garantire che siano in linea con gli obiettivi e le priorità della strategia di gestione del rischio, nonché con la direzione di alto livello della politica di sicurezza informatica"
+ },
+ {
+   "code_ref": "GV.PO-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Richiedere l'approvazione dell'alta dirigenza sulla politica"
+ },
+ {
+   "code_ref": "GV.PO-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Comunicare la politica di gestione del rischio di sicurezza informatica e i processi e le procedure di supporto in tutta l'organizzazione"
+ },
+ {
+   "code_ref": "GV.PO-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Richiedere al personale di confermare la ricezione della politica al momento della prima assunzione, annualmente e ogni volta che la politica viene aggiornata"
+ },
+ {
+   "code_ref": "GV.PO-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Aggiornare la politica sulla base di revisioni periodiche dei risultati della gestione del rischio di sicurezza informatica per garantire che la politica e i processi e le procedure di supporto mantengano adeguatamente il rischio a un livello accettabile"
+ },
+ {
+   "code_ref": "GV.PO-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Fornire una tempistica per la revisione delle modifiche all'ambiente di rischio dell'organizzazione (ad esempio, cambiamenti nel rischio o negli obiettivi della missione dell'organizzazione) e comunicare gli aggiornamenti delle politiche raccomandati"
+ },
+ {
+   "code_ref": "GV.PO-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Aggiornamento della politica per riflettere le modifiche ai requisiti legali e normativi"
+ },
+ {
+   "code_ref": "GV.PO-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Aggiornare la politica per riflettere i cambiamenti nella tecnologia (ad esempio, l'adozione dell'intelligenza artificiale) e i cambiamenti nell'attività (ad esempio, l'acquisizione di una nuova attività, i nuovi requisiti contrattuali)"
+ },
+ {
+   "code_ref": "GV.OV-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Misurare in che misura la strategia di gestione del rischio e i risultati del rischio hanno aiutato i leader a prendere decisioni e raggiungere gli obiettivi organizzativi"
+ },
+ {
+   "code_ref": "GV.OV-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Esaminare se le strategie di rischio per la sicurezza informatica che ostacolano le operazioni o l'innovazione debbano essere modificate"
+ },
+ {
+   "code_ref": "GV.OV-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Esaminare i risultati dell'audit per confermare se la strategia di sicurezza informatica esistente ha garantito la conformità ai requisiti interni ed esterni"
+ },
+ {
+   "code_ref": "GV.OV-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Esaminare la supervisione delle prestazioni di coloro che ricoprono ruoli legati alla sicurezza informatica per determinare se sono necessarie modifiche alle politiche"
+ },
+ {
+   "code_ref": "GV.OV-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Rivedere la strategia alla luce degli incidenti di sicurezza informatica "
+ },
+ {
+   "code_ref": "GV.OV-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Esaminare gli indicatori chiave di prestazione (KPI) per garantire che le politiche e le procedure a livello di organizzazione raggiungano gli obiettivi"
+ },
+ {
+   "code_ref": "GV.OV-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Esaminare gli indicatori chiave di rischio (KRI) per identificare i rischi che l'organizzazione deve affrontare, inclusa la probabilità e l'impatto potenziale"
+ },
+ {
+   "code_ref": "GV.OV-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Raccogliere e comunicare le metriche sulla gestione del rischio di sicurezza informatica con la leadership senior"
+ },
+ {
+   "code_ref": "GV.SC-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Stabilire una strategia che esprima gli obiettivi del programma di gestione del rischio della catena di approvvigionamento della sicurezza informatica"
+ },
+ {
+   "code_ref": "GV.SC-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Sviluppare il programma di gestione del rischio della catena di approvvigionamento della sicurezza informatica, incluso un piano (con pietre miliari), politiche e procedure che guidano l'implementazione e il miglioramento del programma e condividere le politiche e le procedure con gli stakeholder dell'organizzazione"
+ },
+ {
+   "code_ref": "GV.SC-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Sviluppare e implementare processi di programma basati sulla strategia, gli obiettivi, le politiche e le procedure concordate ed eseguite dagli stakeholder dell'organizzazione"
+ },
+ {
+   "code_ref": "GV.SC-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Stabilire un meccanismo interorganizzativo che garantisca l'allineamento tra le funzioni che contribuiscono alla gestione del rischio della catena di approvvigionamento della sicurezza informatica, come la sicurezza informatica, l'IT, le operazioni, l'ufficio legale, le risorse umane e l'ingegneria"
+ },
+ {
+   "code_ref": "GV.SC-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Identificare uno o più ruoli o posizioni specifiche che saranno responsabili della pianificazione, delle risorse e dell'esecuzione delle attività di gestione del rischio della catena di approvvigionamento della sicurezza informatica"
+ },
+ {
+   "code_ref": "GV.SC-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Documentare i ruoli e le responsabilità della gestione del rischio della catena di approvvigionamento della sicurezza informatica nelle policy"
+ },
+ {
+   "code_ref": "GV.SC-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Creare matrici di responsabilità per documentare chi sarà responsabile delle attività di gestione del rischio della catena di approvvigionamento della sicurezza informatica e in che modo tali team e individui saranno consultati e informati "
+ },
+ {
+   "code_ref": "GV.SC-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Includere le responsabilità di gestione del rischio della catena di approvvigionamento della sicurezza informatica e i requisiti di prestazione nelle descrizioni del personale per garantire chiarezza e migliorare la responsabilità"
+ },
+ {
+   "code_ref": "GV.SC-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Documentare gli obiettivi di prestazione per il personale con responsabilità specifiche di gestione del rischio di sicurezza informatica e misurarli periodicamente per dimostrare e migliorare le prestazioni"
+ },
+ {
+   "code_ref": "GV.SC-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Sviluppare ruoli e responsabilità per fornitori, clienti e partner commerciali per affrontare le responsabilità condivise per i rischi di sicurezza informatica applicabili e integrarle nelle politiche organizzative e negli accordi di terze parti applicabili"
+ },
+ {
+   "code_ref": "GV.SC-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Comunicare internamente i ruoli e le responsabilità di gestione del rischio della supply chain di sicurezza informatica per le terze parti"
+ },
+ {
+   "code_ref": "GV.SC-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Stabilire regole e protocolli per la condivisione delle informazioni e i processi di rendicontazione tra l'organizzazione e i suoi fornitori"
+ },
+ {
+   "code_ref": "GV.SC-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Identificare le aree di allineamento e sovrapposizione con la sicurezza informatica e la gestione dei rischi aziendali"
+ },
+ {
+   "code_ref": "GV.SC-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Stabilire set di controllo integrati per la gestione dei rischi di sicurezza informatica e la gestione dei rischi della catena di approvvigionamento di sicurezza informatica"
+ },
+ {
+   "code_ref": "GV.SC-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Integrare la gestione dei rischi della supply chain di sicurezza informatica nei processi di miglioramento"
+ },
+ {
+   "code_ref": "GV.SC-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Inoltrare i rischi materiali per la sicurezza informatica nelle catene di approvvigionamento al senior management e affrontarli a livello di gestione del rischio aziendale"
+ },
+ {
+   "code_ref": "GV.SC-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Sviluppare criteri per la criticità dei fornitori basati, ad esempio, sulla sensibilità dei dati elaborati o posseduti dai fornitori, sul grado di accesso ai sistemi dell'organizzazione e sull'importanza dei prodotti o servizi per la missione dell'organizzazione"
+ },
+ {
+   "code_ref": "GV.SC-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Tenere un registro di tutti i fornitori e dare priorità ai fornitori in base ai criteri di criticità"
+ },
+ {
+   "code_ref": "GV.SC-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Stabilire requisiti di sicurezza per fornitori, prodotti e servizi commisurati al loro livello di criticità e al potenziale impatto in caso di compromissione"
+ },
+ {
+   "code_ref": "GV.SC-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Includere tutti i requisiti di sicurezza informatica e della catena di approvvigionamento che le terze parti devono seguire e il modo in cui la conformità ai requisiti può essere verificata nel linguaggio contrattuale predefinito"
+ },
+ {
+   "code_ref": "GV.SC-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Definire le regole e i protocolli per la condivisione delle informazioni tra l'organizzazione e i suoi fornitori e fornitori di sottolivello negli accordi"
+ },
+ {
+   "code_ref": "GV.SC-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Gestire i rischi includendo i requisiti di sicurezza negli accordi in base alla loro criticità e al potenziale impatto in caso di compromissione"
+ },
+ {
+   "code_ref": "GV.SC-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Definire i requisiti di sicurezza negli accordi sul livello di servizio (SLA) per il monitoraggio dei fornitori per prestazioni di sicurezza accettabili durante l'intero ciclo di vita della relazione con i fornitori"
+ },
+ {
+   "code_ref": "GV.SC-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Richiedere contrattualmente ai fornitori di divulgare le caratteristiche, le funzioni e le vulnerabilità di sicurezza informatica dei loro prodotti e servizi per tutta la durata del prodotto o per la durata del servizio"
+ },
+ {
+   "code_ref": "GV.SC-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Richiedere contrattualmente ai fornitori di fornire e mantenere un inventario aggiornato dei componenti (ad esempio, distinta base software o hardware) per i prodotti critici"
+ },
+ {
+   "code_ref": "GV.SC-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Richiedere contrattualmente ai fornitori di controllare i propri dipendenti e proteggersi dalle minacce interne"
+ },
+ {
+   "code_ref": "GV.SC-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Richiedere contrattualmente ai fornitori di fornire prove dell'esecuzione di pratiche di sicurezza accettabili attraverso, ad esempio, l'autocertificazione, la conformità a standard noti, certificazioni o ispezioni"
+ },
+ {
+   "code_ref": "GV.SC-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Specificare nei contratti e in altri accordi i diritti e le responsabilità dell'organizzazione, dei suoi fornitori e delle loro catene di approvvigionamento, in relazione ai potenziali rischi di sicurezza informatica"
+ },
+ {
+   "code_ref": "GV.SC-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Eseguire un'approfondita due diligence sui potenziali fornitori che sia coerente con la pianificazione dell'approvvigionamento e commisurata al livello di rischio, criticità e complessità di ciascuna relazione con i fornitori"
+ },
+ {
+   "code_ref": "GV.SC-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Valutare l'idoneità della tecnologia e delle capacità di sicurezza informatica e le pratiche di gestione del rischio dei potenziali fornitori"
+ },
+ {
+   "code_ref": "GV.SC-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Condurre valutazioni del rischio dei fornitori rispetto ai requisiti aziendali e di sicurezza informatica applicabili"
+ },
+ {
+   "code_ref": "GV.SC-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Valutare l'autenticità, l'integrità e la sicurezza dei prodotti critici prima dell'acquisizione e dell'uso"
+ },
+ {
+   "code_ref": "GV.SC-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Adeguare i formati e le frequenze di valutazione in base alla reputazione della terza parte e alla criticità dei prodotti o servizi che fornisce"
+ },
+ {
+   "code_ref": "GV.SC-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Valutare le prove di conformità di terze parti ai requisiti contrattuali di sicurezza informatica, come autoattestazioni, garanzie, certificazioni e altri artefatti"
+ },
+ {
+   "code_ref": "GV.SC-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitorare i fornitori critici per assicurarsi che stiano adempiendo ai loro obblighi di sicurezza durante tutto il ciclo di vita della relazione con i fornitori utilizzando una varietà di metodi e tecniche, come ispezioni, audit, test o altre forme di valutazione"
+ },
+ {
+   "code_ref": "GV.SC-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitorare fornitori, servizi e prodotti critici per rilevare eventuali modifiche ai loro profili di rischio e rivalutare di conseguenza la criticità dei fornitori e l'impatto del rischio"
+ },
+ {
+   "code_ref": "GV.SC-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Pianificare le interruzioni impreviste relative ai fornitori e alla supply chain per garantire la continuità aziendale"
+ },
+ {
+   "code_ref": "GV.SC-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Definire e utilizzare regole e protocolli per la segnalazione delle attività di risposta e ripristino agli incidenti e dello stato tra l'organizzazione e i suoi fornitori"
+ },
+ {
+   "code_ref": "GV.SC-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Identificare e documentare i ruoli e le responsabilità dell'organizzazione e dei suoi fornitori per la risposta agli incidenti"
+ },
+ {
+   "code_ref": "GV.SC-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Includere i fornitori critici nelle esercitazioni e nelle simulazioni di risposta agli incidenti"
+ },
+ {
+   "code_ref": "GV.SC-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Definire e coordinare metodi e protocolli di comunicazione di crisi tra l'organizzazione e i suoi fornitori critici"
+ },
+ {
+   "code_ref": "GV.SC-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Condurre sessioni collaborative di lezioni apprese con i fornitori critici"
+ },
+ {
+   "code_ref": "GV.SC-09",
+   "framework_ref": "NIST",
+   "implementation_text": "Le politiche e le procedure richiedono la registrazione della provenienza per tutti i prodotti e servizi tecnologici acquisiti"
+ },
+ {
+   "code_ref": "GV.SC-09",
+   "framework_ref": "NIST",
+   "implementation_text": "Fornire periodicamente rapporti sui rischi ai leader su come i componenti acquisiti si sono dimostrati autentici e non manomessi"
+ },
+ {
+   "code_ref": "GV.SC-09",
+   "framework_ref": "NIST",
+   "implementation_text": "Comunicare regolarmente tra i responsabili del rischio di sicurezza informatica e il personale operativo in merito alla necessità di acquisire patch, aggiornamenti e upgrade del software solo da fornitori di software autenticati e affidabili "
+ },
+ {
+   "code_ref": "GV.SC-09",
+   "framework_ref": "NIST",
+   "implementation_text": "Esaminare le politiche per assicurarsi che richiedano al personale approvato del fornitore di eseguire la manutenzione sui prodotti del fornitore"
+ },
+ {
+   "code_ref": "GV.SC-09",
+   "framework_ref": "NIST",
+   "implementation_text": "Ex5: Le politiche e le procedure richiedono il controllo degli aggiornamenti all'hardware critico per verificare la presenza di modifiche non autorizzate"
+ },
+ {
+   "code_ref": "GV.SC-10",
+   "framework_ref": "NIST",
+   "implementation_text": "Stabilire processi per terminare le relazioni critiche sia in circostanze normali che avverse"
+ },
+ {
+   "code_ref": "GV.SC-10",
+   "framework_ref": "NIST",
+   "implementation_text": "Definire e implementare piani per il supporto alla manutenzione e l'obsolescenza dei componenti a fine vita"
+ },
+ {
+   "code_ref": "GV.SC-10",
+   "framework_ref": "NIST",
+   "implementation_text": "Verificare che l'accesso dei fornitori alle risorse dell'organizzazione sia disattivato tempestivamente quando non è più necessario"
+ },
+ {
+   "code_ref": "GV.SC-10",
+   "framework_ref": "NIST",
+   "implementation_text": "Verificare che le risorse contenenti i dati dell'organizzazione vengano restituite o smaltite correttamente in modo tempestivo, controllato e sicuro"
+ },
+ {
+   "code_ref": "GV.SC-10",
+   "framework_ref": "NIST",
+   "implementation_text": "Sviluppare ed eseguire un piano per la cessazione o la transizione delle relazioni con i fornitori che tenga conto dei rischi per la sicurezza della catena di approvvigionamento e della resilienza"
+ },
+ {
+   "code_ref": "GV.SC-10",
+   "framework_ref": "NIST",
+   "implementation_text": "Ex6: Mitigare i rischi per i dati e i sistemi creati dalla cessazione del fornitore"
+ },
+ {
+   "code_ref": "GV.SC-10",
+   "framework_ref": "NIST",
+   "implementation_text": "Ex7: Gestire i rischi di perdita di dati associati alla cessazione del fornitore"
+ },
+ {
+   "code_ref": "ID.AM-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Mantenere le scorte per tutti i tipi di hardware, inclusi IT, IoT, OT e dispositivi mobili"
+ },
+ {
+   "code_ref": "ID.AM-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitoraggio costante delle reti per rilevare nuovo hardware e aggiornare automaticamente le scorte"
+ },
+ {
+   "code_ref": "ID.AM-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Mantenere gli inventari per tutti i tipi di software e servizi, comprese le applicazioni commerciali, open-source, personalizzate, i servizi API e le applicazioni e i servizi basati su cloud "
+ },
+ {
+   "code_ref": "ID.AM-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitoraggio costante di tutte le piattaforme, inclusi container e macchine virtuali, per rilevare eventuali modifiche all'inventario del software e dei servizi"
+ },
+ {
+   "code_ref": "ID.AM-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Mantenere un inventario dei sistemi dell'organizzazione"
+ },
+ {
+   "code_ref": "ID.AM-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Mantenere le linee di base dei flussi di comunicazione e di dati all'interno delle reti cablate e wireless dell'organizzazione "
+ },
+ {
+   "code_ref": "ID.AM-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Mantenere le linee di base della comunicazione e dei flussi di dati tra l'organizzazione e le terze parti "
+ },
+ {
+   "code_ref": "ID.AM-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Mantenere le linee di base dei flussi di comunicazione e di dati per l'utilizzo dell'infrastruttura come servizio (IaaS) dell'organizzazione"
+ },
+ {
+   "code_ref": "ID.AM-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Mantenere la documentazione delle porte, dei protocolli e dei servizi di rete previsti che vengono generalmente utilizzati tra i sistemi autorizzati"
+ },
+ {
+   "code_ref": "ID.AM-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Inventario di tutti i servizi esterni utilizzati dall'organizzazione, comprese le offerte di IaaS (Infrastructure-as-a-Service), PaaS (Platform-as-a-Service) e SaaS (Infrastructure-as-a-Service) di terze parti; Api; e altri servizi applicativi ospitati esternamente"
+ },
+ {
+   "code_ref": "ID.AM-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Aggiornare l'inventario quando un nuovo servizio esterno sta per essere utilizzato per garantire un adeguato monitoraggio della gestione del rischio di sicurezza informatica dell'utilizzo di tale servizio da parte dell'organizzazione"
+ },
+ {
+   "code_ref": "ID.AM-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Definire i criteri per l'assegnazione delle priorità a ciascuna classe di asset"
+ },
+ {
+   "code_ref": "ID.AM-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Applicare i criteri di assegnazione delle priorità agli asset"
+ },
+ {
+   "code_ref": "ID.AM-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Tenere traccia delle priorità degli asset e aggiornarle periodicamente o quando si verificano cambiamenti significativi nell'organizzazione"
+ },
+ {
+   "code_ref": "ID.AM-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Mantenere un elenco dei tipi di dati di interesse designati (ad esempio, informazioni di identificazione personale, informazioni sanitarie protette, numeri di conto finanziario, proprietà intellettuale dell'organizzazione, dati sulla tecnologia operativa)"
+ },
+ {
+   "code_ref": "ID.AM-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Individuazione e analisi continue di dati ad hoc per identificare nuove istanze di tipi di dati designati "
+ },
+ {
+   "code_ref": "ID.AM-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Assegna classificazioni di dati a tipi di dati designati tramite tag o etichette"
+ },
+ {
+   "code_ref": "ID.AM-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Traccia la provenienza, il proprietario dei dati e la geolocalizzazione di ogni istanza dei tipi di dati designati"
+ },
+ {
+   "code_ref": "ID.AM-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Integrare le considerazioni sulla sicurezza informatica durante l'intero ciclo di vita di sistemi, hardware, software e servizi"
+ },
+ {
+   "code_ref": "ID.AM-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Integrare le considerazioni sulla sicurezza informatica nei cicli di vita dei prodotti"
+ },
+ {
+   "code_ref": "ID.AM-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Identificare usi non ufficiali della tecnologia per raggiungere gli obiettivi della missione (ad esempio, \"shadow IT\")"
+ },
+ {
+   "code_ref": "ID.AM-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Identificare periodicamente sistemi, hardware, software e servizi ridondanti che aumentano inutilmente la superficie di attacco dell'organizzazione"
+ },
+ {
+   "code_ref": "ID.AM-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Configurare e proteggere correttamente sistemi, hardware, software e servizi prima della loro distribuzione in produzione"
+ },
+ {
+   "code_ref": "ID.AM-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Aggiornare gli inventari quando sistemi, hardware, software e servizi vengono spostati o trasferiti all'interno dell'organizzazione"
+ },
+ {
+   "code_ref": "ID.AM-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Distruggere in modo sicuro i dati archiviati in base alla politica di conservazione dei dati dell'organizzazione utilizzando il metodo di distruzione prescritto e tenere e gestire un registro delle distruzioni"
+ },
+ {
+   "code_ref": "ID.AM-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Sanifica in modo sicuro l'archiviazione dei dati quando l'hardware viene ritirato, dismesso, riassegnato o inviato per riparazioni o sostituzione"
+ },
+ {
+   "code_ref": "ID.AM-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Offrire metodi per distruggere carta, supporti di memorizzazione e altre forme fisiche di archiviazione dei dati"
+ },
+ {
+   "code_ref": "ID.RA-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare le tecnologie di gestione delle vulnerabilità per identificare il software senza patch e configurato in modo errato"
+ },
+ {
+   "code_ref": "ID.RA-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Valutare le architetture di rete e di sistema per individuare i punti deboli della progettazione e dell'implementazione che influiscono sulla sicurezza informatica"
+ },
+ {
+   "code_ref": "ID.RA-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Esaminare, analizzare o testare il software sviluppato dall'organizzazione per identificare le vulnerabilità di progettazione, codifica e configurazione predefinita"
+ },
+ {
+   "code_ref": "ID.RA-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Valutare le strutture che ospitano risorse informatiche critiche per vulnerabilità fisiche e problemi di resilienza"
+ },
+ {
+   "code_ref": "ID.RA-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitorare le fonti di intelligence sulle minacce informatiche per ottenere informazioni sulle nuove vulnerabilità nei prodotti e nei servizi"
+ },
+ {
+   "code_ref": "ID.RA-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Esaminare i processi e le procedure alla ricerca di punti deboli che potrebbero essere sfruttati per influire sulla sicurezza informatica"
+ },
+ {
+   "code_ref": "ID.RA-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Configurare strumenti e tecnologie di sicurezza informatica con funzionalità di rilevamento o risposta per acquisire in modo sicuro i feed di intelligence sulle minacce informatiche"
+ },
+ {
+   "code_ref": "ID.RA-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Ricevere e rivedere gli avvisi di terze parti affidabili sugli attuali attori delle minacce e sulle loro tattiche, tecniche e procedure (TTP)"
+ },
+ {
+   "code_ref": "ID.RA-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitorare le fonti di intelligence sulle minacce informatiche per ottenere informazioni sui tipi di vulnerabilità che le tecnologie emergenti possono avere"
+ },
+ {
+   "code_ref": "ID.RA-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare l'intelligence sulle minacce informatiche per mantenere la consapevolezza dei tipi di attori delle minacce che potrebbero prendere di mira l'organizzazione e dei TTP che probabilmente utilizzeranno"
+ },
+ {
+   "code_ref": "ID.RA-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Eseguire la ricerca delle minacce per cercare segni di attori delle minacce all'interno dell'ambiente"
+ },
+ {
+   "code_ref": "ID.RA-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Implementare processi per l'identificazione degli attori interni delle minacce"
+ },
+ {
+   "code_ref": "ID.RA-04",
+   "framework_ref": "NIST",
+   "implementation_text": "I leader aziendali e i professionisti della gestione del rischio di sicurezza informatica lavorano insieme per stimare la probabilità e l'impatto degli scenari di rischio e registrarli nei registri dei rischi"
+ },
+ {
+   "code_ref": "ID.RA-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Enumerare i potenziali impatti aziendali dell'accesso non autorizzato alle comunicazioni, ai sistemi e ai dati dell'organizzazione elaborati in o da tali sistemi"
+ },
+ {
+   "code_ref": "ID.RA-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Tenere conto dei potenziali impatti dei guasti a cascata per i sistemi dei sistemi"
+ },
+ {
+   "code_ref": "ID.RA-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Sviluppare modelli di minaccia per comprendere meglio i rischi per i dati e identificare le risposte ai rischi appropriate "
+ },
+ {
+   "code_ref": "ID.RA-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Dare priorità alle allocazioni e agli investimenti delle risorse di sicurezza informatica in base alle probabilità e agli impatti stimati "
+ },
+ {
+   "code_ref": "ID.RA-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Applicare i criteri del piano di gestione delle vulnerabilità per decidere se accettare, trasferire, mitigare o evitare il rischio"
+ },
+ {
+   "code_ref": "ID.RA-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Applicare i criteri del piano di gestione delle vulnerabilità per la selezione dei controlli di compensazione per mitigare il rischio"
+ },
+ {
+   "code_ref": "ID.RA-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitorare i progressi dell'implementazione della risposta al rischio (ad esempio, piano d'azione e tappe fondamentali [POA&M], registro dei rischi, rapporto dettagliato sui rischi)"
+ },
+ {
+   "code_ref": "ID.RA-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare i risultati della valutazione del rischio per informare le decisioni e le azioni di risposta al rischio"
+ },
+ {
+   "code_ref": "ID.RA-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Comunicare le risposte al rischio pianificate alle parti interessate in ordine di priorità"
+ },
+ {
+   "code_ref": "ID.RA-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Implementare e seguire le procedure per la documentazione formale, la revisione, il test e l'approvazione delle modifiche proposte e delle eccezioni richieste"
+ },
+ {
+   "code_ref": "ID.RA-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Documentare i possibili rischi derivanti dall'apportare o meno ogni modifica proposta e fornire indicazioni su come annullare le modifiche"
+ },
+ {
+   "code_ref": "ID.RA-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Documentare i rischi relativi a ciascuna eccezione richiesta e il piano per rispondere a tali rischi"
+ },
+ {
+   "code_ref": "ID.RA-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Rivedere periodicamente i rischi che sono stati accettati in base alle azioni o alle tappe future pianificate"
+ },
+ {
+   "code_ref": "ID.RA-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Condurre la condivisione delle informazioni sulle vulnerabilità tra l'organizzazione e i suoi fornitori seguendo le regole e i protocolli definiti nei contratti"
+ },
+ {
+   "code_ref": "ID.RA-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Assegnare responsabilità e verificare l'esecuzione delle procedure per l'elaborazione, l'analisi dell'impatto e la risposta alle minacce di sicurezza informatica, alle vulnerabilità o alla divulgazione di incidenti da parte di fornitori, clienti, partner e organizzazioni governative di sicurezza informatica"
+ },
+ {
+   "code_ref": "ID.RA-09",
+   "framework_ref": "NIST",
+   "implementation_text": "Valutare l'autenticità e la sicurezza informatica di prodotti e servizi tecnologici critici prima dell'acquisizione e dell'utilizzo"
+ },
+ {
+   "code_ref": "ID.RA-10",
+   "framework_ref": "NIST",
+   "implementation_text": "Condurre valutazioni del rischio dei fornitori rispetto ai requisiti aziendali e di sicurezza informatica applicabili, inclusa la catena di approvvigionamento"
+ },
+ {
+   "code_ref": "ID.IM-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Eseguire autovalutazioni dei servizi critici che prendono in considerazione le minacce attuali e i TTP"
+ },
+ {
+   "code_ref": "ID.IM-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Investire in valutazioni di terze parti o audit indipendenti dell'efficacia del programma di sicurezza informatica dell'organizzazione per identificare le aree che necessitano di miglioramenti"
+ },
+ {
+   "code_ref": "ID.IM-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Valutare costantemente la conformità ai requisiti di sicurezza informatica selezionati attraverso mezzi automatizzati"
+ },
+ {
+   "code_ref": "ID.IM-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Identificare i miglioramenti per le future attività di risposta agli incidenti sulla base dei risultati delle valutazioni di risposta agli incidenti (ad esempio, esercitazioni e simulazioni da tavolo, test, revisioni interne, audit indipendenti)"
+ },
+ {
+   "code_ref": "ID.IM-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Identificare i miglioramenti per le future attività di business continuity, disaster recovery e incident response sulla base di esercizi eseguiti in coordinamento con i fornitori di servizi critici e i fornitori di prodotti"
+ },
+ {
+   "code_ref": "ID.IM-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Coinvolgere gli stakeholder interni (ad esempio, dirigenti senior, ufficio legale, risorse umane) nei test e nelle esercitazioni di sicurezza, a seconda dei casi."
+ },
+ {
+   "code_ref": "ID.IM-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Eseguire test di penetrazione per identificare le opportunità per migliorare la posizione di sicurezza di sistemi selezionati ad alto rischio, come approvato dalla leadership"
+ },
+ {
+   "code_ref": "ID.IM-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Esercitare piani di emergenza per rispondere e riprendersi dalla scoperta che i prodotti o i servizi non hanno avuto origine dal fornitore o dal partner contrattuale o sono stati modificati prima del ricevimento"
+ },
+ {
+   "code_ref": "ID.IM-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Raccogliere e analizzare le metriche delle prestazioni utilizzando strumenti e servizi di sicurezza per migliorare il programma di sicurezza informatica"
+ },
+ {
+   "code_ref": "ID.IM-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Condurre sessioni collaborative di lezioni apprese con i fornitori"
+ },
+ {
+   "code_ref": "ID.IM-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Rivedere annualmente le politiche, i processi e le procedure di sicurezza informatica per tenere conto delle lezioni apprese"
+ },
+ {
+   "code_ref": "ID.IM-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare le metriche per valutare le prestazioni operative della sicurezza informatica nel tempo"
+ },
+ {
+   "code_ref": "ID.IM-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Stabilire piani di emergenza (ad esempio, risposta agli incidenti, continuità aziendale, ripristino di emergenza) per rispondere e riprendersi da eventi avversi che possono interferire con le operazioni, esporre informazioni riservate o mettere in pericolo la missione e la redditività dell'organizzazione"
+ },
+ {
+   "code_ref": "ID.IM-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Includere informazioni di contatto e comunicazione, processi per la gestione di scenari comuni e criteri per la definizione delle priorità, l'escalation e l'elevazione in tutti i piani di emergenza"
+ },
+ {
+   "code_ref": "ID.IM-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Creare un piano di gestione delle vulnerabilità per identificare e valutare tutti i tipi di vulnerabilità e per dare priorità, testare e implementare risposte ai rischi"
+ },
+ {
+   "code_ref": "ID.IM-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Comunicare i piani di sicurezza informatica (compresi gli aggiornamenti) ai responsabili della loro attuazione e alle parti interessate"
+ },
+ {
+   "code_ref": "ID.IM-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Rivedere e aggiornare tutti i piani di sicurezza informatica annualmente o quando viene identificata la necessità di miglioramenti significativi"
+ },
+ {
+   "code_ref": "PR.AA-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Avviare richieste di nuovo accesso o accesso aggiuntivo per dipendenti, appaltatori e altri e monitorare, rivedere e soddisfare le richieste, con l'autorizzazione dei proprietari del sistema o dei dati, quando necessario"
+ },
+ {
+   "code_ref": "PR.AA-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Emettere, gestire e revocare certificati crittografici e token di identità, chiavi crittografiche (ad esempio, gestione delle chiavi) e altre credenziali"
+ },
+ {
+   "code_ref": "PR.AA-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Selezionare un identificatore univoco per ogni dispositivo da caratteristiche hardware non modificabili o un identificatore di cui è stato effettuato il provisioning sicuro nel dispositivo"
+ },
+ {
+   "code_ref": "PR.AA-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Etichettare fisicamente l'hardware autorizzato con un identificatore per scopi di inventario e manutenzione"
+ },
+ {
+   "code_ref": "PR.AA-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Verificare l'identità dichiarata di una persona al momento dell'iscrizione utilizzando le credenziali di identità rilasciate dal governo (ad esempio, passaporto, visto, patente di guida)"
+ },
+ {
+   "code_ref": "PR.AA-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Rilasciare una credenziale diversa per ogni persona (ad esempio, nessuna condivisione delle credenziali)"
+ },
+ {
+   "code_ref": "PR.AA-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Richiedi l'autenticazione a più fattori "
+ },
+ {
+   "code_ref": "PR.AA-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Applicare i criteri per la complessità minima di password, PIN e autenticatori simili "
+ },
+ {
+   "code_ref": "PR.AA-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Riautenticare periodicamente utenti, servizi e hardware in base al rischio (ad esempio, in architetture Zero Trust)"
+ },
+ {
+   "code_ref": "PR.AA-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Assicurarsi che il personale autorizzato possa accedere agli account essenziali per proteggere la sicurezza in condizioni di emergenza"
+ },
+ {
+   "code_ref": "PR.AA-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Proteggere le asserzioni di identità utilizzate per trasmettere l'autenticazione e le informazioni utente tramite sistemi Single Sign-On"
+ },
+ {
+   "code_ref": "PR.AA-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Proteggere le asserzioni di identità utilizzate per trasmettere l'autenticazione e le informazioni utente tra sistemi federati"
+ },
+ {
+   "code_ref": "PR.AA-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Implementare approcci basati su standard per le asserzioni di identità in tutti i contesti e seguire tutte le linee guida per la generazione (ad esempio, modelli di dati, metadati), la protezione (ad esempio, firma digitale, crittografia) e la verifica (ad esempio, convalida della firma) delle asserzioni di identità"
+ },
+ {
+   "code_ref": "PR.AA-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Rivedere periodicamente i privilegi di accesso logico e fisico e ogni volta che qualcuno cambia ruolo o lascia l'organizzazione e revocare prontamente i privilegi che non sono più necessari"
+ },
+ {
+   "code_ref": "PR.AA-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Prendere in considerazione gli attributi del richiedente e della risorsa richiesta per le decisioni di autorizzazione (ad esempio, geolocalizzazione, giorno/ora, salute informatica dell'endpoint del richiedente)"
+ },
+ {
+   "code_ref": "PR.AA-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Limitare l'accesso e i privilegi al minimo necessario (ad esempio, un'architettura zero trust)"
+ },
+ {
+   "code_ref": "PR.AA-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Rivedere periodicamente i privilegi associati alle funzioni aziendali critiche per confermare la corretta separazione dei compiti"
+ },
+ {
+   "code_ref": "PR.AA-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare guardie di sicurezza, telecamere di sicurezza, ingressi chiusi, sistemi di allarme e altri controlli fisici per monitorare le strutture e limitare l'accesso"
+ },
+ {
+   "code_ref": "PR.AA-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Impiegare ulteriori controlli di sicurezza fisica per le aree che contengono risorse ad alto rischio"
+ },
+ {
+   "code_ref": "PR.AA-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Accompagna ospiti, fornitori e altre terze parti all'interno di aree che contengono risorse critiche per l'azienda"
+ },
+ {
+   "code_ref": "PR.AT-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Fornire consapevolezza e formazione di base sulla sicurezza informatica a dipendenti, appaltatori, partner, fornitori e tutti gli altri utenti delle risorse non pubbliche dell'organizzazione"
+ },
+ {
+   "code_ref": "PR.AT-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Formare il personale a riconoscere i tentativi di ingegneria sociale e altri attacchi comuni, segnalare attacchi e attività sospette, rispettare le politiche di utilizzo accettabili ed eseguire attività di igiene informatica di base (ad esempio, applicazione di patch al software, scelta delle password, protezione delle credenziali) "
+ },
+ {
+   "code_ref": "PR.AT-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Spiegare le conseguenze delle violazioni delle politiche di sicurezza informatica, sia ai singoli utenti che all'organizzazione nel suo complesso"
+ },
+ {
+   "code_ref": "PR.AT-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Valutare o testare periodicamente gli utenti sulla loro comprensione delle pratiche di sicurezza informatica di base"
+ },
+ {
+   "code_ref": "PR.AT-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Richiedere aggiornamenti annuali per rafforzare le pratiche esistenti e introdurne di nuove"
+ },
+ {
+   "code_ref": "PR.AT-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Identificare i ruoli specializzati all'interno dell'organizzazione che richiedono una formazione aggiuntiva sulla sicurezza informatica, come il personale fisico e di sicurezza informatica, il personale finanziario, la leadership senior e chiunque abbia accesso ai dati business-critical"
+ },
+ {
+   "code_ref": "PR.AT-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Fornire consapevolezza e formazione sulla sicurezza informatica basate sui ruoli a tutti coloro che ricoprono ruoli specializzati, inclusi appaltatori, partner, fornitori e altre terze parti"
+ },
+ {
+   "code_ref": "PR.AT-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Valutare o testare periodicamente gli utenti sulla loro comprensione delle pratiche di sicurezza informatica per i loro ruoli specializzati"
+ },
+ {
+   "code_ref": "PR.AT-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Richiedere aggiornamenti annuali per rafforzare le pratiche esistenti e introdurre nuove pratiche"
+ },
+ {
+   "code_ref": "PR.DS-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare la crittografia, le firme digitali e gli hash crittografici per proteggere la riservatezza e l'integrità dei dati archiviati in file, database, immagini di dischi di macchine virtuali, immagini di container e altre risorse"
+ },
+ {
+   "code_ref": "PR.DS-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare la crittografia completa del disco per proteggere i dati archiviati negli endpoint utente"
+ },
+ {
+   "code_ref": "PR.DS-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Confermare l'integrità del software convalidando le firme"
+ },
+ {
+   "code_ref": "PR.DS-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Limitare l'uso di supporti rimovibili per impedire l'esfiltrazione dei dati"
+ },
+ {
+   "code_ref": "PR.DS-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Supporti rimovibili fisicamente sicuri contenenti informazioni sensibili non crittografate, ad esempio all'interno di uffici chiusi a chiave o schedari"
+ },
+ {
+   "code_ref": "PR.DS-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare la crittografia, le firme digitali e gli hash crittografici per proteggere la riservatezza e l'integrità delle comunicazioni di rete"
+ },
+ {
+   "code_ref": "PR.DS-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Crittografa o blocca automaticamente le e-mail in uscita e altre comunicazioni che contengono dati sensibili, a seconda della classificazione dei dati"
+ },
+ {
+   "code_ref": "PR.DS-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Bloccare l'accesso alla posta elettronica personale, alla condivisione di file, ai servizi di archiviazione dei file e ad altre applicazioni e servizi di comunicazione personale dai sistemi e dalle reti dell'organizzazione "
+ },
+ {
+   "code_ref": "PR.DS-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Impedire il riutilizzo di dati sensibili provenienti da ambienti di produzione (ad esempio, record dei clienti) in ambienti di sviluppo, test e altri ambienti non di produzione"
+ },
+ {
+   "code_ref": "PR.DS-10",
+   "framework_ref": "NIST",
+   "implementation_text": "Rimozione dei dati che devono rimanere riservati (ad esempio, dai processori e dalla memoria) non appena non sono più necessari"
+ },
+ {
+   "code_ref": "PR.DS-10",
+   "framework_ref": "NIST",
+   "implementation_text": "Proteggere i dati in uso dall'accesso da parte di altri utenti e processi della stessa piattaforma"
+ },
+ {
+   "code_ref": "PR.DS-11",
+   "framework_ref": "NIST",
+   "implementation_text": "Eseguire il backup continuo dei dati critici quasi in tempo reale ed eseguire il backup di altri dati frequentemente secondo le pianificazioni concordate"
+ },
+ {
+   "code_ref": "PR.DS-11",
+   "framework_ref": "NIST",
+   "implementation_text": "Testare i backup e i ripristini per tutti i tipi di origini dati almeno una volta all'anno"
+ },
+ {
+   "code_ref": "PR.DS-11",
+   "framework_ref": "NIST",
+   "implementation_text": "Archivia in modo sicuro alcuni backup offline e fuori sede in modo che un incidente o un disastro non li danneggi"
+ },
+ {
+   "code_ref": "PR.DS-11",
+   "framework_ref": "NIST",
+   "implementation_text": "Applicare la separazione geografica e le restrizioni di geolocalizzazione per l'archiviazione del backup dei dati"
+ },
+ {
+   "code_ref": "PR.PS-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Stabilire, testare, implementare e mantenere linee di base consolidate che applicano le politiche di sicurezza informatica dell'organizzazione e forniscono solo le funzionalità essenziali (ad esempio, il principio della funzionalità minima)"
+ },
+ {
+   "code_ref": "PR.PS-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Esaminare tutte le impostazioni di configurazione predefinite che potrebbero influire sulla sicurezza informatica durante l'installazione o l'aggiornamento del software"
+ },
+ {
+   "code_ref": "PR.PS-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitorare il software implementato per individuare eventuali deviazioni dalle baseline approvate"
+ },
+ {
+   "code_ref": "PR.PS-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Eseguire l'applicazione di patch di routine e di emergenza entro i tempi specificati nel piano di gestione delle vulnerabilità"
+ },
+ {
+   "code_ref": "PR.PS-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Aggiornare le immagini del contenitore e distribuire nuove istanze di contenitore per sostituire anziché aggiornare le istanze esistenti"
+ },
+ {
+   "code_ref": "PR.PS-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Sostituzione delle versioni del software e del servizio a fine vita con versioni supportate e mantenute"
+ },
+ {
+   "code_ref": "PR.PS-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Disinstallare e rimuovere software e servizi non autorizzati che comportano rischi eccessivi "
+ },
+ {
+   "code_ref": "PR.PS-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Disinstallare e rimuovere tutti i componenti software non necessari (ad esempio, le utilità del sistema operativo) che gli aggressori potrebbero utilizzare in modo improprio"
+ },
+ {
+   "code_ref": "PR.PS-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Definire e implementare piani per il supporto alla manutenzione di fine vita e all'obsolescenza di software e servizi"
+ },
+ {
+   "code_ref": "PR.PS-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Sostituire l'hardware quando non dispone delle funzionalità di sicurezza necessarie o quando non è in grado di supportare il software con le funzionalità di sicurezza necessarie"
+ },
+ {
+   "code_ref": "PR.PS-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Definire e implementare piani per il supporto alla manutenzione di fine vita dell'hardware e l'obsolescenza"
+ },
+ {
+   "code_ref": "PR.PS-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Eseguire lo smaltimento dell'hardware in modo sicuro, responsabile e verificabile"
+ },
+ {
+   "code_ref": "PR.PS-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Configurare tutti i sistemi operativi, le applicazioni e i servizi (inclusi i servizi basati su cloud) per generare record di log"
+ },
+ {
+   "code_ref": "PR.PS-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Configurare i generatori di log per condividere in modo sicuro i log con i sistemi e i servizi dell'infrastruttura di logging dell'organizzazione"
+ },
+ {
+   "code_ref": "PR.PS-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Configurare i generatori di log per registrare i dati necessari alle architetture zero-trust"
+ },
+ {
+   "code_ref": "PR.PS-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Quando il rischio lo giustifica, limitare l'esecuzione del software solo ai prodotti consentiti o negare l'esecuzione di software proibito e non autorizzato"
+ },
+ {
+   "code_ref": "PR.PS-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Verificare l'origine del nuovo software e l'integrità del software prima di installarlo"
+ },
+ {
+   "code_ref": "PR.PS-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Configurare le piattaforme per l'utilizzo solo di servizi DNS approvati che bloccano l'accesso a domini dannosi noti"
+ },
+ {
+   "code_ref": "PR.PS-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Configurare le piattaforme per consentire l'installazione solo del software approvato dall'organizzazione"
+ },
+ {
+   "code_ref": "PR.PS-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Proteggere tutti i componenti del software sviluppato dall'organizzazione da manomissioni e accessi non autorizzati"
+ },
+ {
+   "code_ref": "PR.PS-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Proteggere tutto il software prodotto dall'organizzazione, con vulnerabilità minime nelle loro versioni"
+ },
+ {
+   "code_ref": "PR.PS-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Mantenere il software utilizzato negli ambienti di produzione e smaltirlo in modo sicuro una volta che non è più necessario"
+ },
+ {
+   "code_ref": "PR.IR-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Segmentare logicamente le reti dell'organizzazione e le piattaforme basate su cloud in base ai limiti di attendibilità e ai tipi di piattaforma (ad esempio, IT, IoT, OT, dispositivi mobili, guest) e consentire le comunicazioni richieste solo tra i segmenti"
+ },
+ {
+   "code_ref": "PR.IR-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Segmentare logicamente le reti dell'organizzazione dalle reti esterne e consentire solo alle comunicazioni necessarie di entrare nelle reti dell'organizzazione dalle reti esterne"
+ },
+ {
+   "code_ref": "PR.IR-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Implementare architetture zero trust per limitare l'accesso alla rete a ciascuna risorsa al minimo necessario"
+ },
+ {
+   "code_ref": "PR.IR-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Controllare lo stato informatico degli endpoint prima di consentire loro di accedere e utilizzare le risorse di produzione"
+ },
+ {
+   "code_ref": "PR.IR-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Proteggere le apparecchiature dell'organizzazione da minacce ambientali note, come inondazioni, incendi, vento e calore e umidità eccessivi"
+ },
+ {
+   "code_ref": "PR.IR-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Includere la protezione dalle minacce ambientali e le disposizioni per un'adeguata infrastruttura operativa nei requisiti per i fornitori di servizi che gestiscono i sistemi per conto dell'organizzazione"
+ },
+ {
+   "code_ref": "PR.IR-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Evitare singoli punti di guasto nei sistemi e nell'infrastruttura"
+ },
+ {
+   "code_ref": "PR.IR-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare il bilanciamento del carico per aumentare la capacità e migliorare l'affidabilità"
+ },
+ {
+   "code_ref": "PR.IR-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare componenti ad alta disponibilità come storage e alimentatori ridondanti per migliorare l'affidabilità del sistema"
+ },
+ {
+   "code_ref": "PR.IR-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitoraggio dell'utilizzo di storage, alimentazione, elaborazione, larghezza di banda di rete e altre risorse"
+ },
+ {
+   "code_ref": "PR.IR-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Prevedere le esigenze future e scalare le risorse di conseguenza"
+ },
+ {
+   "code_ref": "DE.CM-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitoraggio di DNS, BGP e altri servizi di rete per rilevare eventuali eventi avversi"
+ },
+ {
+   "code_ref": "DE.CM-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitoraggio delle reti cablate e wireless per le connessioni da endpoint non autorizzati"
+ },
+ {
+   "code_ref": "DE.CM-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitoraggio delle strutture per reti wireless non autorizzate o non autorizzate"
+ },
+ {
+   "code_ref": "DE.CM-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Confronto dei flussi di rete effettivi con le linee di base per rilevare le deviazioni"
+ },
+ {
+   "code_ref": "DE.CM-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitoraggio delle comunicazioni di rete per identificare i cambiamenti nelle posizioni di sicurezza per scopi Zero Trust"
+ },
+ {
+   "code_ref": "DE.CM-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitorare i log dei sistemi di controllo degli accessi fisici (ad esempio, lettori di badge) per individuare modelli di accesso insoliti (ad esempio, deviazioni dalla norma) e tentativi di accesso non riusciti"
+ },
+ {
+   "code_ref": "DE.CM-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Revisione e monitoraggio dei record di accesso fisico (ad esempio, dalla registrazione dei visitatori, ai fogli di accesso)"
+ },
+ {
+   "code_ref": "DE.CM-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitorare i controlli degli accessi fisici (ad es. serrature, chiavistelli, perni delle cerniere, allarmi) per rilevare eventuali segni di manomissione"
+ },
+ {
+   "code_ref": "DE.CM-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitorare l'ambiente fisico utilizzando sistemi di allarme, telecamere e guardie di sicurezza"
+ },
+ {
+   "code_ref": "DE.CM-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare un software di analisi del comportamento per rilevare l'attività anomala degli utenti per mitigare le minacce interne"
+ },
+ {
+   "code_ref": "DE.CM-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitorare i log dai sistemi di controllo degli accessi logici per individuare modelli di accesso insoliti e tentativi di accesso non riusciti"
+ },
+ {
+   "code_ref": "DE.CM-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitorare continuamente la tecnologia di inganno, inclusi gli account utente, per qualsiasi utilizzo"
+ },
+ {
+   "code_ref": "DE.CM-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitorare le attività di amministrazione e manutenzione remota e in loco che i fornitori esterni eseguono sui sistemi organizzativi "
+ },
+ {
+   "code_ref": "DE.CM-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitorare l'attività dei servizi basati su cloud, dei provider di servizi Internet e di altri fornitori di servizi per individuare eventuali deviazioni dal comportamento previsto"
+ },
+ {
+   "code_ref": "DE.CM-09",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitora e-mail, Web, condivisione di file, servizi di collaborazione e altri vettori di attacco comuni per rilevare malware, phishing, fughe di dati ed esfiltrazione e altri eventi avversi"
+ },
+ {
+   "code_ref": "DE.CM-09",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitorare i tentativi di autenticazione per identificare gli attacchi contro le credenziali e il riutilizzo non autorizzato delle credenziali"
+ },
+ {
+   "code_ref": "DE.CM-09",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitorare le configurazioni software per individuare eventuali deviazioni dalle baseline di sicurezza"
+ },
+ {
+   "code_ref": "DE.CM-09",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitorare l'hardware e il software per rilevare eventuali segni di manomissione"
+ },
+ {
+   "code_ref": "DE.CM-09",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare tecnologie con una presenza sugli endpoint per rilevare problemi di salute informatica (ad esempio, patch mancanti, infezioni da malware, software non autorizzato) e reindirizzare gli endpoint a un ambiente di correzione prima che l'accesso sia autorizzato"
+ },
+ {
+   "code_ref": "DE.AE-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare le informazioni di sicurezza e la gestione degli eventi (SIEM) o altri strumenti per monitorare continuamente gli eventi del registro alla ricerca di attività dannose e sospette note"
+ },
+ {
+   "code_ref": "DE.AE-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare l'intelligence aggiornata sulle minacce informatiche negli strumenti di analisi dei log per migliorare l'accuratezza del rilevamento e caratterizzare gli attori delle minacce, i loro metodi e gli indicatori di compromissione"
+ },
+ {
+   "code_ref": "DE.AE-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Condurre regolarmente revisioni manuali degli eventi di registro per le tecnologie che non possono essere monitorate a sufficienza attraverso l'automazione"
+ },
+ {
+   "code_ref": "DE.AE-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare gli strumenti di analisi dei log per generare report sui risultati"
+ },
+ {
+   "code_ref": "DE.AE-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Trasferimento costante dei dati di log generati da altre fonti a un numero relativamente ridotto di server di log"
+ },
+ {
+   "code_ref": "DE.AE-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare la tecnologia di correlazione degli eventi (ad esempio, SIEM) per raccogliere informazioni acquisite da più fonti"
+ },
+ {
+   "code_ref": "DE.AE-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare l'intelligence sulle minacce informatiche per correlare gli eventi tra le origini dei log"
+ },
+ {
+   "code_ref": "DE.AE-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare SIEM o altri strumenti per stimare l'impatto e l'ambito, nonché rivedere e perfezionare le stime"
+ },
+ {
+   "code_ref": "DE.AE-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Una persona crea le proprie stime dell'impatto e della portata"
+ },
+ {
+   "code_ref": "DE.AE-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare il software di sicurezza informatica per generare avvisi e fornirli al centro operativo di sicurezza (SOC), ai risponditori agli incidenti e agli strumenti di risposta agli incidenti "
+ },
+ {
+   "code_ref": "DE.AE-06",
+   "framework_ref": "NIST",
+   "implementation_text": "I soccorritori e altro personale autorizzato possono accedere ai risultati dell'analisi dei registri in qualsiasi momento"
+ },
+ {
+   "code_ref": "DE.AE-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Crea e assegna automaticamente i ticket nel sistema di ticketing dell'organizzazione quando si verificano determinati tipi di avvisi"
+ },
+ {
+   "code_ref": "DE.AE-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Creare e assegnare manualmente i ticket nel sistema di ticketing dell'organizzazione quando il personale tecnico scopre indicatori di compromissione"
+ },
+ {
+   "code_ref": "DE.AE-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Fornire in modo sicuro feed di intelligence sulle minacce informatiche a tecnologie di rilevamento, processi e personale"
+ },
+ {
+   "code_ref": "DE.AE-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Fornire in modo sicuro informazioni dagli inventari delle risorse alle tecnologie di rilevamento, ai processi e al personale"
+ },
+ {
+   "code_ref": "DE.AE-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Acquisizione e analisi rapide delle divulgazioni di vulnerabilità per le tecnologie dell'organizzazione da fornitori, venditori e consulenti di sicurezza di terze parti "
+ },
+ {
+   "code_ref": "DE.AE-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Applicare i criteri dell'incidente alle caratteristiche note e presunte dell'attività al fine di determinare se un incidente deve essere dichiarato"
+ },
+ {
+   "code_ref": "DE.AE-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Tenere conto dei falsi positivi noti quando si applicano i criteri degli eventi imprevisti"
+ },
+ {
+   "code_ref": "RS.MA-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Le tecnologie di rilevamento segnalano automaticamente gli incidenti confermati "
+ },
+ {
+   "code_ref": "RS.MA-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Richiedere assistenza per la risposta agli incidenti all'outsourcer della risposta agli incidenti dell'organizzazione"
+ },
+ {
+   "code_ref": "RS.MA-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Designare un lead per ogni incidente"
+ },
+ {
+   "code_ref": "RS.MA-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Avviare l'esecuzione di ulteriori piani di sicurezza informatica necessari per supportare la risposta agli incidenti (ad esempio, continuità aziendale e ripristino di emergenza)"
+ },
+ {
+   "code_ref": "RS.MA-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Esaminare preliminarmente i rapporti sugli incidenti per confermare che siano correlati alla sicurezza informatica e richiedano attività di risposta agli incidenti"
+ },
+ {
+   "code_ref": "RS.MA-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Applicare criteri per stimare la gravità di un incidente"
+ },
+ {
+   "code_ref": "RS.MA-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Esaminare e classificare ulteriormente gli incidenti in base al tipo di incidente (ad esempio, violazione dei dati, ransomware, DDoS, compromissione dell'account)"
+ },
+ {
+   "code_ref": "RS.MA-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Dare priorità agli incidenti in base alla loro portata, al probabile impatto e alla natura critica in termini di tempo"
+ },
+ {
+   "code_ref": "RS.MA-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Selezionare le strategie di risposta agli incidenti per gli incidenti attivi bilanciando la necessità di riprendersi rapidamente da un incidente con la necessità di osservare l'aggressore o condurre un'indagine più approfondita"
+ },
+ {
+   "code_ref": "RS.MA-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitoraggio e convalida dello stato di tutti gli incidenti in corso"
+ },
+ {
+   "code_ref": "RS.MA-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Coordinare l'escalation o l'elevazione degli incidenti con gli stakeholder interni ed esterni designati"
+ },
+ {
+   "code_ref": "RS.MA-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Applicare i criteri di ripristino degli eventi imprevisti alle caratteristiche note e presunte dell'evento imprevisto per determinare se è necessario avviare i processi di ripristino degli eventi imprevisti"
+ },
+ {
+   "code_ref": "RS.MA-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Prendere in considerazione la possibile interruzione operativa delle attività di ripristino degli incidenti"
+ },
+ {
+   "code_ref": "RS.AN-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Determinare la sequenza di eventi che si sono verificati durante l'incidente e quali beni e risorse sono stati coinvolti in ciascun evento"
+ },
+ {
+   "code_ref": "RS.AN-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Tentativo di determinare quali vulnerabilità, minacce e attori delle minacce sono stati direttamente o indirettamente coinvolti nell'incidente"
+ },
+ {
+   "code_ref": "RS.AN-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Analizzare l'incidente per trovare le cause sottostanti e sistemiche alla radice "
+ },
+ {
+   "code_ref": "RS.AN-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Controlla qualsiasi tecnologia di inganno informatico per ulteriori informazioni sul comportamento degli aggressori"
+ },
+ {
+   "code_ref": "RS.AN-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Richiedere a ciascun addetto alla risposta agli incidenti e ad altri (ad esempio, amministratori di sistema, ingegneri della sicurezza informatica) che eseguono attività di risposta agli incidenti di registrare le proprie azioni e rendere il record immutabile"
+ },
+ {
+   "code_ref": "RS.AN-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Richiedere al responsabile dell'incidente di documentare l'incidente in dettaglio e di essere responsabile della conservazione dell'integrità della documentazione e delle fonti di tutte le informazioni segnalate"
+ },
+ {
+   "code_ref": "RS.AN-07",
+   "framework_ref": "NIST",
+   "implementation_text": "Raccogliere, conservare e salvaguardare l'integrità di tutti i dati e i metadati pertinenti sugli incidenti (ad esempio, origine dei dati, data/ora di raccolta) sulla base della conservazione delle prove e delle procedure di catena di custodia"
+ },
+ {
+   "code_ref": "RS.AN-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Esaminare altri potenziali obiettivi dell'incidente per cercare indicatori di compromissione e prove di persistenza"
+ },
+ {
+   "code_ref": "RS.AN-08",
+   "framework_ref": "NIST",
+   "implementation_text": "Esegui automaticamente gli strumenti sui target per cercare indicatori di compromissione e prove di persistenza"
+ },
+ {
+   "code_ref": "RS.CO-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Seguire le procedure di notifica delle violazioni dell'organizzazione dopo aver rilevato un incidente di violazione dei dati, inclusa la notifica ai clienti interessati "
+ },
+ {
+   "code_ref": "RS.CO-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Notificare ai partner commerciali e ai clienti gli incidenti in conformità con i requisiti contrattuali"
+ },
+ {
+   "code_ref": "RS.CO-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Notificare alle forze dell'ordine e agli organismi di regolamentazione gli incidenti in base ai criteri del piano di risposta agli incidenti e all'approvazione della direzione"
+ },
+ {
+   "code_ref": "RS.CO-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Condivisione sicura delle informazioni coerenti con i piani di risposta e gli accordi di condivisione delle informazioni"
+ },
+ {
+   "code_ref": "RS.CO-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Condividere volontariamente le informazioni sui TTP osservati da un utente malintenzionato, con la rimozione di tutti i dati sensibili, con un centro di condivisione e analisi delle informazioni (ISAC)"
+ },
+ {
+   "code_ref": "RS.CO-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Avvisare le risorse umane quando si verifica un'attività interna dannosa"
+ },
+ {
+   "code_ref": "RS.CO-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Aggiornare regolarmente la dirigenza sullo stato degli incidenti gravi"
+ },
+ {
+   "code_ref": "RS.CO-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Seguire le regole e i protocolli definiti nei contratti per la condivisione delle informazioni sugli incidenti tra l'organizzazione e i suoi fornitori "
+ },
+ {
+   "code_ref": "RS.CO-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Coordinare i metodi di comunicazione di crisi tra l'organizzazione e i suoi fornitori critici"
+ },
+ {
+   "code_ref": "RS.MI-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Le tecnologie di sicurezza informatica (ad esempio, software antivirus) e le funzionalità di sicurezza informatica di altre tecnologie (ad esempio, sistemi operativi, dispositivi dell'infrastruttura di rete) eseguono automaticamente azioni di contenimento"
+ },
+ {
+   "code_ref": "RS.MI-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Consenti ai responsabili della risposta agli incidenti di selezionare ed eseguire manualmente le azioni di contenimento"
+ },
+ {
+   "code_ref": "RS.MI-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Consentire a una terza parte (ad esempio, provider di servizi Internet, provider di servizi di sicurezza gestiti) di eseguire azioni di contenimento per conto dell'organizzazione"
+ },
+ {
+   "code_ref": "RS.MI-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Trasferimento automatico degli endpoint compromessi a una VLAN (Virtual Local Area Network) di correzione"
+ },
+ {
+   "code_ref": "RS.MI-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Le tecnologie di sicurezza informatica e le funzionalità di sicurezza informatica di altre tecnologie (ad esempio, sistemi operativi, dispositivi dell'infrastruttura di rete) eseguono automaticamente azioni di eliminazione"
+ },
+ {
+   "code_ref": "RS.MI-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Consenti ai responsabili della risposta agli incidenti di selezionare ed eseguire manualmente le azioni di eliminazione "
+ },
+ {
+   "code_ref": "RS.MI-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Consentire a una terza parte (ad esempio, un fornitore di servizi di sicurezza gestito) di eseguire azioni di eliminazione per conto dell'organizzazione"
+ },
+ {
+   "code_ref": "RC.RP-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Avvio delle procedure di ripristino durante o dopo i processi di risposta agli incidenti"
+ },
+ {
+   "code_ref": "RC.RP-01",
+   "framework_ref": "NIST",
+   "implementation_text": "Rendere consapevoli tutti gli individui con responsabilità di recupero dei piani di recupero e delle autorizzazioni necessarie per attuare ogni aspetto dei piani"
+ },
+ {
+   "code_ref": "RC.RP-02",
+   "framework_ref": "NIST",
+   "implementation_text": "selezionare le azioni di ripristino in base ai criteri definiti nel piano di risposta agli incidenti e alle risorse disponibili"
+ },
+ {
+   "code_ref": "RC.RP-02",
+   "framework_ref": "NIST",
+   "implementation_text": "Modificare le azioni di ripristino pianificate sulla base di una rivalutazione delle esigenze e delle risorse organizzative"
+ },
+ {
+   "code_ref": "RC.RP-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Controllare le risorse di ripristino per verificare la presenza di indicatori di compromissione, danneggiamento dei file e altri problemi di integrità prima dell'uso"
+ },
+ {
+   "code_ref": "RC.RP-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Utilizzare i record di impatto aziendale e di categorizzazione del sistema (inclusi gli obiettivi di erogazione dei servizi) per convalidare che i servizi essenziali vengano ripristinati nell'ordine appropriato"
+ },
+ {
+   "code_ref": "RC.RP-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Lavorare con i proprietari dei sistemi per confermare il corretto ripristino dei sistemi e il ritorno alle normali operazioni"
+ },
+ {
+   "code_ref": "RC.RP-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Monitorare le prestazioni dei sistemi ripristinati per verificare l'adeguatezza del ripristino"
+ },
+ {
+   "code_ref": "RC.RP-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Controllare gli asset ripristinati per individuare gli indicatori di compromissione e la correzione delle cause principali dell'incidente prima dell'uso in produzione"
+ },
+ {
+   "code_ref": "RC.RP-05",
+   "framework_ref": "NIST",
+   "implementation_text": "Verificare la correttezza e l'adeguatezza delle azioni di ripristino intraprese prima di mettere online un sistema ripristinato"
+ },
+ {
+   "code_ref": "RC.RP-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Preparare un rapporto post-azione che documenti l'incidente stesso, le azioni di risposta e ripristino intraprese e le lezioni apprese"
+ },
+ {
+   "code_ref": "RC.RP-06",
+   "framework_ref": "NIST",
+   "implementation_text": "Dichiarare la fine del ripristino dell'incidente una volta soddisfatti i criteri"
+ },
+ {
+   "code_ref": "RC.CO-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Condivisione sicura delle informazioni di ripristino, inclusi i progressi del ripristino, in linea con i piani di risposta e gli accordi di condivisione delle informazioni"
+ },
+ {
+   "code_ref": "RC.CO-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Aggiornare regolarmente i dirigenti senior sullo stato di ripristino e sui progressi del ripristino in caso di incidenti gravi"
+ },
+ {
+   "code_ref": "RC.CO-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Seguire le regole e i protocolli definiti nei contratti per la condivisione delle informazioni sugli incidenti tra l'organizzazione e i suoi fornitori "
+ },
+ {
+   "code_ref": "RC.CO-03",
+   "framework_ref": "NIST",
+   "implementation_text": "Coordinare la comunicazione di crisi tra l'organizzazione e i suoi fornitori critici "
+ },
+ {
+   "code_ref": "RC.CO-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Seguire le procedure di notifica delle violazioni dell'organizzazione per il ripristino da un incidente di violazione dei dati"
+ },
+ {
+   "code_ref": "RC.CO-04",
+   "framework_ref": "NIST",
+   "implementation_text": "Spiegare le misure adottate per riprendersi dall'incidente e per prevenire il ripetersi"
+ }
+]

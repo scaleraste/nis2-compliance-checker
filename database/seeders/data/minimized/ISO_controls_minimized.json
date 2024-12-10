@@ -1,0 +1,35 @@
+[
+ {
+   "nis2_ref": 1,
+   "framework": "ISO 27001",
+   "code": "6.1",
+   "priority": null,
+   "category": "Analisi dei rischi e delle opportunità",
+   "sub_category": null,
+   "description": "Vengono Identificati, valutati e gestiti rischi e opportunità per la sicurezza delle informazioni, monitorando e riesaminando l'efficacia dei processi di gestione del rischio.",
+   "function": null,
+   "asset_type": null
+ },
+ {
+   "nis2_ref": 1,
+   "framework": "ISO 27001",
+   "code": "A5.31",
+   "priority": null,
+   "category": "Identificazione dei requisiti legali e statutari",
+   "sub_category": null,
+   "description": "I requisiti legali, statutari, normativi e contrattuali relativi alla sicurezza delle informazioni e l'approccio dell'organizzazione per soddisfare tali requisiti sono   identificati, documentati e mantenuti aggiornati.",
+   "function": null,
+   "asset_type": null
+ },
+ {
+   "nis2_ref": 16,
+   "framework": "ISO 27001",
+   "code": "A5.14",
+   "priority": null,
+   "category": "Trasferimento di informazioni",
+   "sub_category": null,
+   "description": "Sono in vigore regole, procedure o accordi per il trasferimento delle informazioni per tutti i tipi di strutture di trasferimento all'interno dell'organizzazione e tra l'organizzazione e altre parti.",
+   "function": null,
+   "asset_type": null
+ }
+]

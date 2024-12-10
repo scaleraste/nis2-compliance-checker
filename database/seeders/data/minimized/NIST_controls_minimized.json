@@ -1,0 +1,35 @@
+[
+ {
+   "nis2_ref": 2,
+   "framework": "NIST",
+   "code": "ID.IM-02",
+   "priority": "High",
+   "category": "Miglioramento ",
+   "sub_category": null,
+   "description": "I miglioramenti sono identificati dai test e dagli esercizi di sicurezza, compresi quelli svolti in coordinamento con i fornitori e le terze parti interessate.",
+   "function": "Identify",
+   "asset_type": null
+ },
+ {
+   "nis2_ref": 3,
+   "framework": "NIST",
+   "code": "ID.RA-06",
+   "priority": "High",
+   "category": "Valutazione del rischio ",
+   "sub_category": null,
+   "description": "Le risposte al rischio sono state scelte, stabilite in base alla priorità, pianificate, monitorate e comunicate.",
+   "function": "Identify",
+   "asset_type": null
+ },
+ {
+   "nis2_ref": 4,
+   "framework": "NIST",
+   "code": "DE.AE-04",
+   "priority": "High",
+   "category": "Analisi degli eventi avversi ",
+   "sub_category": null,
+   "description": "Si determina l'impatto stimato e la portata degli eventi avversi",
+   "function": "Detect",
+   "asset_type": null
+ }
+]
