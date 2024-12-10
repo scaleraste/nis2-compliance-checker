@@ -71,7 +71,7 @@
     </div>
 
 
-    <div id="pulsanti-auto-compilazione" class="max-w-7xl mx-auto sm:px-4 ">
+    <div id="pulsanti-auto-compilazione" class="max-w-7xl mx-auto sm:px-4 hidden">
         <div class="p-4" style="margin-bottom: auto">
             <div class="mt-4 flex justify-between" style="padding-bottom: 40px">
                 <x-secondary-button id="yes-select-button" class="btn btn-primary">{{ __('strings.seleziona-si') }}</x-secondary-button>
