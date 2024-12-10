@@ -12,9 +12,9 @@ NIS 2 Compliance Checker è un'applicazione web in grado di valutare la conformi
 - Installare ed avviare Docker Desktop (assicurandosi di aver attivato dalle impostazioni l'integrazione WSL2 della distro installata) <br>
   https://www.docker.com/products/docker-desktop/
 
-- Scaricare il codice sorgente e copiare la cartella "nis2-cc" in: Ubuntu\home\nome_utente\
+- Scaricare il codice sorgente e copiare la cartella "nis2-compliance-checker-main" in: Ubuntu\home\nome_utente\
 
-- Aprire il terminale della macchina virtuale e digitare "cd nis2-cc " per posizionarsi all’interno della cartella
+- Aprire il terminale della macchina virtuale e digitare "cd nis2-compliance-checker-main " per posizionarsi all’interno della cartella
 
 
 ## Installare le dipendenze:
