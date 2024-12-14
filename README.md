@@ -1,7 +1,7 @@
 
 # NIS 2 Compliance Checker
 
-NIS 2 Compliance Checker è un'applicazione web in grado di valutare la conformità di un'organizzazione alla normativa europea NIS 2 (Directive EU 2022/2555) per garantire un alto livello di cybersicurezza.
+NIS 2 Compliance Checker è un'applicazione web in grado di valutare la conformità di un'organizzazione alla normativa europea NIS 2 (Directive EU 2022/2555) per garantire un elevato livello di cybersicurezza.
 
 
 ## Requisiti per l'installazione:
