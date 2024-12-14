@@ -273,6 +273,7 @@ return [
     'descrizione-esegui-test' => 'The "Take a Organization" section of NIS2 Compliance Checker allows users to complete the NIS2 Compiance Test. In this section, users can access the available tests and answer the questions. Upon completion of the test, organizations can view their results.',
     'frase-esegui-test' => 'Complete the compliance test and view your results.',
     'frase-risultati' => 'Look at the results of all the tests you have taken, questions and answers.',
+    'frase-informazioni' => 'Learn more about NIS2 and the framework controls used by NIS2 Compliance Checker.',
     'seleziona_controlli_da_inserire' => 'Select the controls to add to the test:',
     'conferma-termina-test' => 'Are you sure you want to end the test?',
 
