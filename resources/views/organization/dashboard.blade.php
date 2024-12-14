@@ -31,25 +31,25 @@
                                 </div>
                             </a>
 
-                            <!-- secondo blocco
-                            <a href="{{ route('my-controls.index') }}">
+                            <!-- secondo blocco-->
+                            <a href="{{ route('informations') }}">
                                 <div class="flex items-center gap-4 rounded-lg bg-white p-6 shadow-[0px_14px_34px_0px_rgba(0,0,0,0.08)] ring-1 ring-white/[0.05] transition duration-300 hover:text-black/70 hover:ring-black/20 focus:outline-none focus-visible:ring-[#1D4ED8] lg:pb-10 dark:bg-zinc-900 dark:ring-zinc-800 dark:hover:text-white/70 dark:hover:ring-zinc-700 dark:focus-visible:ring-[#1D4ED8]">
                                     <div style="margin-top: -20px" class="flex size-12 shrink-0 items-center justify-center rounded-full bg-[#1D4ED8]/10 sm:size-16">
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="#1D4ED8" class="size-6">
-                                            <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 14.25v-2.625a3.375 3.375 0 0 0-3.375-3.375h-1.5A1.125 1.125 0 0 1 13.5 7.125v-1.5a3.375 3.375 0 0 0-3.375-3.375H8.25m2.25 0H5.625c-.621 0-1.125.504-1.125 1.125v17.25c0 .621.504 1.125 1.125 1.125h12.75c.621 0 1.125-.504 1.125-1.125V11.25a9 9 0 0 0-9-9Z" />
+                                            <path stroke-linecap="round" stroke-linejoin="round" d="m11.25 11.25.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0Zm-9-3.75h.008v.008H12V8.25Z" />
                                         </svg>
                                     </div>
 
                                     <div class="px-2 py-5">
-                                        <h1 class="text-xl font-semibold text-black dark:text-white">{{ __('strings.gestione-controlli') }}</h1>
+                                        <h1 class="text-xl font-semibold text-black dark:text-white">{{ __('strings.informations') }}</h1>
 
                                         <p style="padding-right: 60px" class="mt-4 text-sm/relaxed">
-                                            {{ __('strings.frase-gestione-controlli') }}
+                                            {{ __('strings.frase-informazioni') }}
                                         </p>
                                     </div>
                                 </div>
                             </a>
-                            -->
+
                         </div>
                     </main>
                 </div>
