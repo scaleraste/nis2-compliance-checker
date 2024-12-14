@@ -263,6 +263,7 @@ return [
     'descrizione-esegui-test' => 'La sezione "Esegui Test" di NIS2 Compliance Checker permette agli utenti di eseguire i test assegnati dagli utenti. In questa sezione, gli utenti possono accedere ai test disponibili e rispondere alle domande. Al termine del test, gli utenti possono visualizzare i risultati.',
     'frase-esegui-test' => 'Completa il test e visualizza i risultati.',
     'frase-risultati' => 'Visualizza i risultati di tutti i test che hai eseguito, le domande e le risposte.',
+    'frase-informazioni' => 'Scopri di più sulla NIS2 e sui controlli dei framework utilizzati da NIS2 Compliance Checker.',
     'seleziona_controlli_da_inserire' => 'Seleziona i controlli da inserire nel test:',
     'conferma-termina-test' => 'Confermi di voler terminare il test?',
 
